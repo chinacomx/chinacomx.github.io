@@ -15,4 +15,4 @@ ChinaComx is an [funded by the European Union](https://cordis.europa.eu/project/
 ![Alt text](../assets/img/logo-heidelberg.png)
 <br>
 <br>
-We are located at [Heidelberg University](https://www.cats.uni-heidelberg.de/index_en.html).
+We are located at [Heidelberg University](https://www.uni-heidelberg.de/fakultaeten/philosophie/zo/sinologie/research/project-comics.html).
