@@ -19,13 +19,13 @@
 <loc>http://localhost:4000/activities</loc>
 </url>
 <url>
+<loc>http://localhost:4000/apply</loc>
+</url>
+<url>
 <loc>http://localhost:4000/contact</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/positions</loc>
 </url>
 <url>
 <loc>http://localhost:4000/publications</loc>
