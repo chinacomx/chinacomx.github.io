@@ -8,7 +8,7 @@ google-ID:
 
 menu:
 - {name: 'About',              url: 'about'}
-- {name: 'Open Positions',      url: 'positions'}
+- {name: 'Positions',      url: 'positions'}
 - {name: 'Team',      url: 'team'}
 - {name: 'Contact',            url: 'contact'}
 
