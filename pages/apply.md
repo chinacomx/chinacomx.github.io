@@ -49,7 +49,7 @@ The Institute for Chinese Studies at Heidelberg University (Center for Asian and
 - A research proposal related and/or expanding upon a chosen project from the three delineated above of not more than 7000 words in English, including notes and references
 - A writing sample, preferably in English (or German): your MA thesis, a seminar paper, a chapter of a thesis or a published paper
 
-Please submit two pdf files, one for the writing sample, one for all other items, [by email to Dr. Lena Henningsen](lena.henningsen@zo.uni-heidelberg.de) **on or before March 31, 2024**. Interviews are expected to take place in the second half of April, in Heidelberg or online. 
+Please submit two pdf files, one for the writing sample, one for all other items, [by email to Dr. Lena Henningsen](mailto:lena.henningsen@zo.uni-heidelberg.de) **on or before March 31, 2024**. Interviews are expected to take place in the second half of April, in Heidelberg or online. 
 
 For further information, see [the project webpage](https://chinacomx.github.io), the PI’s [previous project](https://readchina.github.io), or contact her by email.
 
