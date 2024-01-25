@@ -6,4 +6,4 @@ permalink: /translations
 
 ![Alt text](../assets/img/lhh-reading-7.png)
 
-Here, the lianhuanhua translations done by the ChinaComx project will be featured. (Come back soon for more!)
+Here, translations of lianhuanhua done by ChinaComx will be featured. (Come back soon for more!)
