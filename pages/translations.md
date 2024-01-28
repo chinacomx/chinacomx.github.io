@@ -4,6 +4,7 @@ title: Translations
 permalink: /translations
 ---
 
-![Alt text](../assets/img/lhh-reading-7.png)
+<!-- ![Alt text](../assets/img/lhh-reading-7.png) -->
 
-Here, translations of lianhuanhua done by ChinaComx will be featured. (Come back soon for more!)
+
+[![Alt text for broken image link](../assets/img/lhh-reading-7.png)](https://whalekeykeeper.github.io/mock/)
