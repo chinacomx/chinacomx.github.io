@@ -6,6 +6,8 @@ permalink: /apply
 
 The Institute for Chinese Studies at Heidelberg University (Center for Asian and Transcultural Studies) invites applications for **three PhD positions** within the framework of the ERC funded research project **“Comics Culture in the People’s Republic of China (ChinaComx)”** to start in September 2024.
 
+[Download the call for applications in PDF](../assets/img/CfAChinaComxPhDs.pdf)
+
 **ChinaComx** investigates the intellectual, political, social, historical, and transcultural dimensions of a medium still heavily understudied: lianhuanhua, literally “linked images” 连环画. It studies them as a medium from the People’s Republic of China and its place within the larger Chinese and global comics culture. Studying the conditions of comic art’s production, distribution and consumption, the project sheds light on how comics contribute to the project of nation building, to the creation of a new socialist human and to the continued legitimacy of the Chinese Communist Party (CCP). In addition, it investigates how these at times highly propagandistic texts were read by ordinary citizens—and how, at the same time, lianhuanhua were one of the most popular reading materials presenting stories loved by children and adults alike. In providing more knowledge about comic culture from China and in contributing to theoretical debates, ChinaComx aims to delineate the term „lianhuanhua“ as a distinct genre and area of academic research that bears specific characteristics, being embedded in a particular context of origin, yet, changing across time and space as Japanese *manga*, Korean *manhwa* or Franco-Belgian *bandes desinnées*. 
 
 ### Your tasks:
