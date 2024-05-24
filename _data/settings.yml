@@ -10,7 +10,6 @@ menu:
 - {name: 'About',              url: 'about'}
 - {name: 'Team',      url: 'team'}
 - {name: 'Translations',      url: 'translations'}
-- {name: 'Apply',      url: 'apply'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
