@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Damian Mandzunowski to Present at the Political Lives in Socialist China Conference in Paris on 10-12 June"
+title: "Damian Mandzunowski Presenting at the Political Lives in Socialist China Conference, 10-12 June in Paris"
 author: ""
 categories: ""
 tags: [talk]
