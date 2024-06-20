@@ -7,8 +7,8 @@ tags: [talk]
 image: Showcase-HD-2024.png
 ---
 
-ChinaComx PI, Lena Henningsen, will present on the realm of translating Chinese comics at the [ShowCase Dolmetschwissenschaft Live](https://www.uni-heidelberg.de/fakultaeten/neuphil/iask/sued/imstudium/showcase_fachkonferenz.html) at the Institut für Übersetzen und Dolmetschen (Institue for Translation and Interpreting) at Heidelberg University on 3 July. 
+ChinaComx PI, Lena Henningsen, will present on the realm of translating Chinese comics at the [ShowCase Dolmetschwissenschaft Live](https://www.uni-heidelberg.de/fakultaeten/neuphil/iask/sued/imstudium/showcase_fachkonferenz.html) at the Institut für Übersetzen und Dolmetschen (Institue for Translation and Interpreting) at Heidelberg University, in the Konferenzsaal II at Plöck 57A, on 3 July. 
 
 The talk is titled "LIANHUANHUA (连环画): CHINESE COMICS IN TRANSLATION AND IN TRANSCULTURAL PERSPECTIVE" and will be at 14:15. For direct access to the Zoom stream, click [here](https://us06web.zoom.us/j/88926559960?pwd=VgfTLktNIfHUfNfzSpQ1lM4hSsvAmi.1). 
 
-The conference will be simultaneously translated into seven languages——English, French, Italian, Japanese, Portuguese, Russian, and Spanish——so even if you're not familiar with German, do tune in! Click [here](assets/img/Showcase-HD-2024.pdf) for the conference poster and program. 
+The conference will be simultaneously translated into seven languages—English, French, Italian, Japanese, Portuguese, Russian, and Spanish—so even if you're not familiar with German, do tune in! Click [here](assets/img/Showcase-HD-2024.pdf) for the conference poster and program. 
