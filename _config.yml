@@ -1,21 +1,21 @@
-# Site Build Settings
+title: ChinaComx
+description: Comics Culture in the People's Republic of China
+url: "http://127.0.0.1:4000"
+baseurl: ""
+theme: minima
 
-# jekyll-paginate configuration
-paginate:            9
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author_profile: false
+      show_date: true
+      comments: true
+      share: true
+      related: true
 
-# Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           /:title
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
-
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Comics Culture in the People's Republic of China"
-description:	       "European Research Council"
-author:              "Centre for Asian and Transcultural Studies, Heidelberg University"
-
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
-
-# Site Build Settings
+# Pagination settings
+paginate: 3
+paginate_path: "/page:num/"

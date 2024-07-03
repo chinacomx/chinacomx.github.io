@@ -2,19 +2,23 @@
 layout: default
 ---
 
-<div class="post-content">
-  <h1>
-    {{ page.title }}
-  </h1>
-  {% if site.hide_post_date != true %}
-    {% include post-date.html %}
-  {% endif %}
-  {% if page.image %}
-    <div class="featured-image">
-      <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+<article class="post-page">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-date">{{ page.date | date: "%d %B %Y" }}</p>
+    <div class="post-content">
+        {% if page.image %}
+        <img class="hero-image" src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+    {% endif %}
+        {{ content }}
     </div>
-  {% endif %}
-  <article>
-    {{ content }}
-  </article>
-</div>
+    <footer class="post-footer">
+        <nav class="post-navigation">
+            {% if page.previous %}
+                <a href="{{ page.previous.url }}" class="prev-post">Previous Activity</a>
+            {% endif %}
+            {% if page.next %}
+                <a href="{{ page.next.url }}" class="next-post">Next Activity</a>
+            {% endif %}
+        </nav>
+    </footer>
+</article>

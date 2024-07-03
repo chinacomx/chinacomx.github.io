@@ -1,13 +1,42 @@
-<!doctype html>
-<html>
-  {% include head.html %}
-  <body>
-    <div class="container">
-      {% include header.html %}
-      <div class="content-wrapper">
-        {{ content }}
-      </div>
-      {% include footer.html %}
-    </div>
-  </body>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>
+            {% if page.layout == 'post' %}
+                Activities
+            {% else %}
+                {{ page.title | default: site.title }}
+            {% endif %}
+        </title>
+        <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+        <link rel="icon" href="{{ '/assets/images/favicon.ico' | relative_url }}" type="image/x-icon">
+        <link rel="shortcut icon" href="{{ '/assets/images/favicon.ico' | relative_url }}" type="image/x-icon">                
+    {% include google-analytics.html %}
+    </head>    
+<body>
+    {% include header.html %}
+    <main class="content-wrapper">
+        <div class="page-header">
+            {% if page.layout == 'post' %}
+                <h1>Activities</h1>
+            {% else %}
+                <h1>{{ page.title }}</h1>
+            {% endif %}
+        </div>
+        <div class="page-content">
+            {{ content }}
+        </div>
+    </main>
+    {% include footer.html %}
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const header = document.getElementById("header");
+            header.classList.add("show");
+        });
+    </script>
+</body>
 </html>
+
