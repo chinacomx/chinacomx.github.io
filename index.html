@@ -1,4 +1,52 @@
 ---
-layout: home
-title: Home
+layout: default
 ---
+
+<div class="container">
+    <section class="splash">
+        <div class="splash-content">
+            <div class="splash-right">
+                <h1>ChinaComx: Comics Culture in the People's Republic of China</h1>
+                <p><i>A research project led by Lena Henningsen with funding from the European Research Council (Grant agreement ID: 101088049) located at the Centre for Asian and Transcultural Studies, Heidelberg University.</i></p>
+            </div>
+        </div>
+        <a href="#posts" class="scroll-down">&#8595;</a>
+    </section>
+    <section id="posts" class="content-wrapper">
+        <div class="container">
+            <h2>News & Activities</h2>
+            <div class="post-navigation-arrows">
+                {% if current_page > 1 %}
+                    <a href="{{ paginator.previous_page_path | default: '/' | append: '?page=' | append: current_page | minus: 1 }}" class="arrow prev-arrow">&#8249;</a>
+                {% endif %}
+                <div class="post-grid">
+                    {% assign posts_per_page = 3 %}
+                    {% assign total_posts = site.posts.size %}
+                    {% assign total_pages = total_posts | divided_by: posts_per_page | ceil %}
+                    {% assign current_page = page | default: 1 %}
+                    
+                    {% assign offset = current_page | times: posts_per_page | minus: posts_per_page %}
+                    {% assign posts_to_show = site.posts | slice: offset, posts_per_page %}
+
+                    {% for post in posts_to_show %}
+                        <div class="post-card">
+                            <a href="{{ post.url }}">
+                                {% if post.image %}
+                                    <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="post-image">
+                                {% endif %}
+                                <div class="post-info">
+                                    <h3>{{ post.title }}</h3>
+                                    <p class="post-date">{{ post.date | date: "%d %B %Y" }}</p>
+                                    <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
+                                </div>
+                            </a>
+                        </div>
+                    {% endfor %}
+                </div>
+                {% if current_page < total_pages %}
+                    <a href="{{ paginator.next_page_path | default: '/' | append: '?page=' | append: current_page | plus: 1 }}" class="arrow next-arrow">&#8250;</a>
+                {% endif %}
+            </div>
+        </div>
+    </section>
+</div>

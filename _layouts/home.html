@@ -1,22 +1,52 @@
----
-layout: default
-title: Home
----
-
-{% for post in paginator.posts %}
-  {% include featured-post.html %}
-{% endfor %}
-
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-button pagination-active next" href="{{ site.github.url }}{{ paginator.next_page_path }}">{{ site.data.settings.pagination.previous_page }}</a>
-  {% else %}
-    <span class="pagination-button">{{ site.data.settings.pagination.previous_page }}</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ site.data.settings.pagination.next_page }}</a>
-  {% else %}
-    <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
-  {% endif %}
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body class="home">
+    {% include header.html %}
+    <main>
+        <section class="splash">
+            <div class="splash-content">
+                <div class="splash-right">
+                    <h1>ChinaComx: Comics Culture in the People's Republic of China</h1>
+                    <p><i>A research project led by Lena Henningsen with funding from the European Research Council (Grant agreement ID: 101088049) located at the Centre for Asian and Transcultural Studies, Heidelberg University.</i></p>
+                </div>
+            </div>
+            <a href="#posts" class="scroll-down">&#8595;</a>
+        </section>
+        <section id="posts" class="content-wrapper">
+            <div class="page-header">
+                <h1>Upcoming Activities</h1>
+            </div>
+            <br>
+            <div class="container">
+                <div class="post-grid">
+                    {% for post in site.posts limit:3 %}
+                        <div class="post-card">
+                            <a href="{{ post.url }}">
+                                {% if post.image %}
+                                    <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+                                {% endif %}
+                                <div class="post-info">
+                                    <h3>{{ post.title }}</h3>
+                                    <br>
+                                    <p class="post-date" class="posted-on">posted on: {{ post.date | date: "%d %B %Y" }}</p>
+                                </div>
+                            </a>
+                        </div>
+                    {% endfor %}
+                </div>
+                <div class="previous-activities">
+                    <a href="/activities" class="previous-link">All Activities ➡️</a>
+                </div>
+            </div>
+        </section>
+    </main>
+    {% include footer.html %}
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
+</html>
