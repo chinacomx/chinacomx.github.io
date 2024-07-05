@@ -12,7 +12,7 @@ The ChinaComx team consists of the following people:
 - Astrid XIAO, PhD Candidate, is ...
 - Aijia ZHANG, PhD Candidate, is ... 
 
-Jérémy BIEHLER, Bettina JIN, Qin GU are our current Research Assistants. 
+Jérémy BIEHLER, Qin Gu, and Bettina JIN are our current Research Assistants. 
 
 <!-- 
 
