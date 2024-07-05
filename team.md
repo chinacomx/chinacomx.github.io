@@ -6,8 +6,8 @@ permalink: /team/
 
 The ChinaComx team consists of the following people:
 
-- [Lena HENNINGSEN](https://www.zo.uni-heidelberg.de/sinologie/institute/staff/henningsen/), Principal Investigator, is writing about adaptations of literary texts into lianhuanhua with a specific focus on the literature of Lu Xun.
-- [Damian MANDZUNOWSKI](https://www.zo.uni-heidelberg.de/sinologie/institute/staff/mandzunowski/), PostDoc Researcher, is working on the contemporary history of lianhuanhua from the point of view of politics, culture, and everyday life;
+- [Lena HENNINGSEN](https://www.zo.uni-heidelberg.de/sinologie/institute/staff/henningsen/), Principal Investigator, is writing about adaptations of literary texts into lianhuanhua with a specific focus on the literature of Lu Xun. 
+- [Damian MANDZUNOWSKI](https://www.zo.uni-heidelberg.de/sinologie/institute/staff/mandzunowski/), PostDoc Researcher, is working on the contemporary history of lianhuanhua from the point of view of politics, culture, and everyday life. 👨🏻‍💻[ResearchGate](https://www.researchgate.net/profile/Damian-Mandzunowski) 🟢[ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-3318-6652)
 - Jiu SONG , PhD Candidate, is ...
 - Astrid XIAO, PhD Candidate, is ...
 - Aijia ZHANG, PhD Candidate, is ... 
