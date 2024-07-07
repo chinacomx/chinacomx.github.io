@@ -7,7 +7,7 @@ permalink: /publications/
 
 In this section, all project-related publications by the ChinaComx team will be listed ongoingly.
 
-Coming soon!
+Coming soon! 📚
 
 <!-- Please use a unified citation style  -->
 <!-- 
