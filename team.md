@@ -8,10 +8,10 @@ The **ChinaComx** team are the following people:
 
 - [Lena HENNINGSEN](https://www.zo.uni-heidelberg.de/sinologie/institute/staff/henningsen/), Principal Investigator, is writing about adaptations of literary texts into lianhuanhua with a specific focus on the literature of Lu Xun. ➡️ 👨🏻‍💻 [ResearchGate](https://www.researchgate.net/profile/Lena-Henningsen)
 - [Damian MANDZUNOWSKI](https://www.zo.uni-heidelberg.de/sinologie/institute/staff/mandzunowski/), PostDoc Researcher, is working on the contemporary history of lianhuanhua through the lenses of politics, culture, and daily life. ➡️ 👨🏻‍💻 [ResearchGate](https://www.researchgate.net/profile/Damian-Mandzunowski) 🟢 [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-3318-6652) 𝕏 [Twitter](https://x.com/zhong_daming) ⚫️ [GitHub](https://github.com/damianodamiani)
-- Jiu SONG, PhD Candidate, is ...
-- Astrid XIAO, PhD Candidate, is ...
-- Aijia ZHANG, PhD Candidate, is ... 
-
+- Jiu SONG, PhD Candidate, is researching Chinese comics and fandom culture.
+- Astrid XIAO, PhD Candidate, is analyzing the aesthetics and theories of lianhuanhua. 
+- Aijia ZHANG, PhD Candidate, is applying computational research methods onto Chinese comics.
+  
 Jérémy BIEHLER, Qin Gu, and Bettina JIN are our current Research Assistants. 
 
 <!-- 
