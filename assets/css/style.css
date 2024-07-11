@@ -995,7 +995,7 @@ body.home .footer-social a img {
         margin-top: 10px;
         font-size: 1rem;
         text-align: justify;
-        max-width: 150px;
+        max-width: 50px;
         display: flex;
         flex-wrap: wrap;
         gap: 16px;
