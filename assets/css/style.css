@@ -973,7 +973,7 @@ body.home .footer-social a img {
 /* Carousel */  
     .carousel {
         position: relative;
-        max-width: 200px;
+        max-width: 150px;
         margin: auto;
         text-align: center;
         display: flex;
@@ -981,8 +981,7 @@ body.home .footer-social a img {
         gap: 16px;
         justify-content: center;
     }
-      }
-      
+} 
       .carousel-inner {
         overflow: hidden;
       }
@@ -991,6 +990,17 @@ body.home .footer-social a img {
         width: 50%;
         height: auto;
       }
+
+      .image-description {
+        margin-top: 10px;
+        font-size: 1rem;
+        text-align: justify;
+        max-width: 150px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 16px;
+        justify-content: center;
+    }
       
       .carousel-control {
         position: absolute;
@@ -1011,4 +1021,6 @@ body.home .footer-social a img {
       .next {
         right: 10px;
       }
+
+ 
                  
