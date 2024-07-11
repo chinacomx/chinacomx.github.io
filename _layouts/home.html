@@ -45,6 +45,30 @@
                 </div>
             </div>
         </section>
+        <section id="carousel" class="content-wrapper">
+            <div class="page-header">
+                <h1>A Page from Our Lianhuanhua Collection</h1>
+            </div>
+            <html lang="en">
+            <head>
+              <meta charset="UTF-8">
+              <title>{{ page.title }}</title>
+              <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+              <script src="{{ '/assets/js/carousel.js' | relative_url }}" defer></script>
+            </head>
+            <body>
+              <div class="carousel">
+                <div class="carousel-inner">
+                  <img id="carousel-image" src="">
+                </div>
+                <div id="image-description"></div>
+                <div class="previous-activities">
+                    <a href="/translations" class="previous-link">All Translations ➡️</a>
+                </div>
+              </div>
+            </body>
+            </html>
+        </section>
     </main>
     {% include footer.html %}
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
