@@ -5,6 +5,7 @@ body {
     margin: 0;
     padding: 0;
 }
+
 /* Global link styles */
 a {
     color: #B52931; /* Default link color */
@@ -36,12 +37,11 @@ a:active {
     color: inherit; /* Inherit hover color from global link styles */
     text-decoration: underline; /* Underline on hover */
 }
-
 /* Navbar Styles */
 header {
     background: #F4F1EA;
     color: #521600;
-    padding: 0.1em;  /* Reduce padding to make the navbar smaller */
+    padding: 0.1em;
     position: fixed;
     width: 100%;
     height: 10%;
@@ -49,12 +49,12 @@ header {
     left: 0;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     z-index: 1000;
-    opacity: 0; /* Initially hidden */
-    transition: opacity 0.5s; /* Smooth transition */
+    opacity: 0;
+    transition: opacity 0.5s;
 }
 
 header.show {
-    opacity: 1; /* Show when scrolled */
+    opacity: 1;
 }
 
 #navigation-container {
@@ -62,12 +62,17 @@ header.show {
     justify-content: space-between;
     align-items: center;
 }
+#navigation-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
 header .navbar-brand .brand-logo {
-    width: 100px; /* Adjust logo size */
+    width: 100px;
     height: auto;
-    margin-left: 0px;
-    margin-right: 90px; /* Space between logo and text */
+    margin-left: 10px;
+    margin-right: 90px;
 }
 
 header .navbar-cer {
@@ -78,40 +83,39 @@ header .navbar-nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    list-style: none;  /* Remove default list style */
-    margin-left: 60px; /* Add margin to create space between Home link and logo */
-    margin-right: 50px; /* Add margin to push logos to the far right */
-    padding: 0;  /* Remove padding */
-    overflow: hidden;  /* Hide overflow */
+    list-style: none;
+    margin-left: 60px;
+    margin-right: 50px;
+    padding: 0;
+    overflow: hidden;
 }
 
 header .navbar-nav .nav-item {
-    margin-left: 10px;  /* Reduce margin between nav items */
+    margin-left: 10px;
 }
 
 header .navbar-nav .nav-link {
     display: block;
-    color: #000000;
-    font-size: 16px;  /* Adjust font size to make text smaller */
+    color: #000;
+    font-size: 16px;
     text-align: center;
-    padding: 0.2em 0.5em;  /* Reduce padding within links */
+    padding: 0.2em 0.5em;
     transition: color 0.3s;
-    text-decoration: none;  /* Remove underline */
+    text-decoration: none;
 }
 
-header .navbar-nav .nav-link:focus, 
+header .navbar-nav .nav-link:focus,
 header .navbar-nav .nav-link.active {
     color: #B52931;
-    text-decoration: none;  /* Ensure no underline on focus or active */
+    text-decoration: none;
 }
 
 header .logos-right {
     display: flex;
     align-items: center;
-    margin-left: auto; /* Ensure logos are at the far right */
+    margin-left: auto;
 }
 
-/* Navbar Styles */
 .navbar {
     width: 100%;
     display: flex;
@@ -122,10 +126,7 @@ header .logos-right {
     box-shadow: 0 2px 1px -1px gray;
 }
 
-.navbar-brand img {
-    max-height: 50px;
-}
-
+.navbar-brand img,
 .nav-logo {
     max-height: 50px;
     margin-left: 10px;
@@ -138,6 +139,7 @@ header .logos-right {
     list-style: none;
     margin: 0;
     padding: 0;
+    flex: 1;
 }
 
 .nav-item {
@@ -148,6 +150,7 @@ header .logos-right {
     color: #000;
     text-decoration: none;
     padding: 10px;
+    font-size: 16px;
 }
 
 .nav-link:hover {
@@ -180,10 +183,10 @@ header .logos-right {
         background-color: #fff;
         padding: 10px;
         position: absolute;
-        top: 60px; /* Adjust based on the height of your navbar */
+        top: 60px;
         left: 0;
         box-shadow: 0 2px 1px -1px gray;
-        z-index: 1000; /* Ensure it is above other content */
+        z-index: 1000;
     }
 
     .collapse.show {
@@ -212,31 +215,7 @@ header .logos-right {
     }
 }
 
-/* General Navbar */
-.navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px 50px;
-    background-color: #fff;
-    box-shadow: 0 2px 1px -1px gray;
-}
-
-.navbar-brand img {
-    max-height: 50px;
-    margin-right: 0px;
-}
-
-.navbar-nav {
-    flex: 1;
-    display: flex;
-    justify-content: center;
-}
-
-.nav-item {
-    margin: 0 15px;
-}
-
+header .logos-right img,
 .navbar .logos-right img {
     max-height: 50px;
     margin-left: 20px;
@@ -245,125 +224,7 @@ header .logos-right {
 .logos-right {
     display: flex;
     align-items: center;
-}
-
-.nav-link {
-    color: #000;
-    font-size: 16px;
-    text-decoration: none;
-}
-
-.nav-link:hover {
-    color: #555;
-}
-
-/* Global Styles */
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-}
-
-/* Navbar Styles */
-.navbar {
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px;
-    background-color: #fff;
-    box-shadow: 0 2px 1px -1px gray;
-}
-
-.navbar-brand img {
-    max-height: 50px;
-}
-
-.nav-logo {
-    max-height: 50px;
-    margin-left: 10px;
-}
-
-.navbar-nav {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
-
-.nav-item {
-    margin: 0 10px;
-}
-
-.nav-link {
-    color: #000;
-    text-decoration: none;
-    padding: 10px;
-}
-
-.nav-link:hover {
-    color: #555;
-}
-
-.navbar-toggler {
-    display: none;
-    background: none;
-    border: none;
-    font-size: 24px;
-    cursor: pointer;
-    padding: 10px;
-}
-
-.collapse {
-    display: flex;
-    flex-grow: 1;
-}
-
-@media (max-width: 768px) {
-    .navbar-toggler {
-        display: block;
-    }
-
-    .collapse {
-        display: none;
-        flex-direction: column;
-        width: 100%;
-        background-color: #fff;
-        padding: 10px;
-        position: absolute;
-        top: 60px; /* Adjust based on the height of your navbar */
-        left: 0;
-        box-shadow: 0 2px 1px -1px gray;
-        z-index: 1000; /* Ensure it is above other content */
-    }
-
-    .collapse.show {
-        display: flex;
-    }
-
-    .navbar-nav {
-        flex-direction: column;
-        width: 100%;
-        align-items: center;
-    }
-
-    .nav-item {
-        text-align: center;
-        width: 100%;
-    }
-
-    .nav-link {
-        padding: 10px 0;
-        border-bottom: 1px solid #ddd;
-        width: 100%;
-    }
-
-    .logos-right {
-        display: none;
-    }
+    margin-left: auto;
 }
 
 /* Splash Page Styles */
@@ -627,24 +488,38 @@ input, textarea {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     overflow: hidden;
     transition: transform 0.3s;
-    width: calc(30% - 14px); /* Change to 30% to fit 3 items in a row */
+    width: calc(30% - 14px);
     margin: 8px;
+    display: flex;
+    flex-direction: column;
+    height: 450px;
 }
 
 .post-card img {
     width: 100%;
-    height: 250px; /* Adjust the height to show more of the image */        
-    object-fit: cover; /* Ensure the image covers the area without distortion */
-   margin-bottom: 10px;
+    height: 250px; 
+    object-fit: cover;
+    margin-bottom: 10px;
 }
 
 .post-info {
     padding: 16px;
+    line-height: 1.2;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .post-info h3 {
-    margin: 0 0 10px 0;
+    margin: 0 0 20px 0;
     font-size: 1.2em;
+    line-height: 1.2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 8;
+    -webkit-box-orient: vertical;
 }
 
 .post-info .post-date {
@@ -666,21 +541,22 @@ input, textarea {
 
 @media (max-width: 1024px) {
     .post-card {
-        width: calc(30% - 14px); /* 3 items in a row for medium screens */
+        width: calc(33.333% - 16px);
     }
 }
 
 @media (max-width: 768px) {
     .post-card {
-        width: calc(50% - 12px); /* 2 items in a row for smaller screens */
+        width: calc(50% - 16px);
     }
 }
 
 @media (max-width: 480px) {
     .post-card {
-        width: 100%; /* 1 item in a row for mobile screens */
+        width: 100%;
     }
 }
+
 /* Post Page Styles */
 .post-page {
     max-width: 800px;
@@ -732,60 +608,6 @@ input, textarea {
     color: #007BFF;
     text-decoration: none;
 }
-/* Post Grid */
-.post-grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 16px;
-    justify-content: center;
-}
-
-.post-card {
-    background: #fff;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
-    transition: transform 0.3s;
-    width: calc(30% - 14px); /* Change to 30% to fit 3 items in a row */
-    margin: 8px;
-    display: flex;
-    flex-direction: column;
-    height: 450px; /* Set a fixed height for post cards */
-}
-
-.post-card img {
-    width: 100%;
-    height: 200px; /* Adjust the height to show more of the image */
-    object-fit: cover; /* Ensure the image covers the area without distortion */
-    margin-bottom: 10px;
-}
-
-.post-info {
-    padding: 16px;
-    line-height: 1.2; /* Adjust line-height for single line spacing */
-    flex: 1; /* Allow post info to take up remaining space */
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between; /* Space out the content evenly */
-}
-
-.post-info h3 {
-    margin: 0 0 20px 0;
-    font-size: 1.1em;
-    line-height: 1.2; /* Adjust line-height for single line spacing */
-    overflow: hidden; /* Hide overflow text */
-    text-overflow: ellipsis; /* Add ellipsis for overflow text */
-    display: -webkit-box;
-    -webkit-line-clamp: 8; /* Limit to 3 lines */
-    -webkit-box-orient: vertical;
-}
-
-.post-info .post-date {
-    font-size: 0.9em;
-    color: #888;
-    margin-bottom: 10px;
-    line-height: 1.2; /* Adjust line-height for single line spacing */
-}
 
 .previous-activities {
     text-align: center;
@@ -797,10 +619,10 @@ input, textarea {
     text-decoration: none;
     font-size: 1.2em;
     transition: color 0.3s;
-    
 }
+
 a:hover {
-    color: #521600
+    color: #521600;
 }
 
 a:focus {
@@ -808,27 +630,8 @@ a:focus {
 }
 
 a:active {
-    color: #521600; /* Even darker color when active (clicked) */
+    color: #521600;
 }
-
-@media (max-width: 1024px) {
-    .post-card {
-        width: calc(33.333% - 16px); /* 3 items in a row for medium screens */
-    }
-}
-
-@media (max-width: 768px) {
-    .post-card {
-        width: calc(50% - 16px); /* 2 items in a row for smaller screens */
-    }
-}
-
-@media (max-width: 480px) {
-    .post-card {
-        width: 100%; /* 1 item in a row for mobile screens */
-    }
-}
-
 
 /* General Styles for Images within Post Content */
 .post-content img {
@@ -968,3 +771,59 @@ body.home .footer-social {
 body.home .footer-social a img {
     width: 24px;
     margin: 0 10px
+}
+    
+/* Carousel */  
+   .carousel {
+           position: relative;
+        max-width: 150px;
+        margin: auto;
+        text-align: center;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 16px;
+        justify-content: center;
+    }
+
+      .carousel-inner {
+        overflow: hidden;
+      }
+      
+      .carousel-inner img {
+        width: 50%;
+        height: auto;
+      }
+
+      .image-description {
+        margin-top: 10px;
+        font-size: 1rem;
+        text-align: justify;
+        max-width: 150px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 16px;
+        justify-content: center;
+    }
+      
+      .carousel-control {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background-color: rgba(0, 0, 0, 0.5);
+        border: none;
+        color: white;
+        padding: 10px;
+        cursor: pointer;
+        z-index: 1;
+      }
+      
+      .prev {
+        left: 10px;
+      }
+      
+      .next {
+        right: 10px;
+      }
+
+ 
+                 
