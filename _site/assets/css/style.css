@@ -64,8 +64,10 @@ header.show {
 }
 
 header .navbar-brand .brand-logo {
-    width: 100px; /* Adjust logo size */
-    height: auto;
+    max-width: 150px; /* Set a maximum width for the logo */
+    max-height: 75px; /* Set a maximum height for the logo */
+    width: auto; /* Adjust width automatically */
+    height: auto; /* Adjust height automatically */
     margin-left: 10px;
     margin-right: 90px; /* Space between logo and text */
 }
@@ -987,7 +989,7 @@ body.home .footer-social a img {
       }
       
       .carousel-inner img {
-        width: 50%;
+        width: 40%;
         height: auto;
       }
 
