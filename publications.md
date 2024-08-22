@@ -12,4 +12,5 @@ In this section, all project-related publications by the ChinaComx team will be 
 
 | Author | Title | Source | Date | DOI / ISBN / URL |
 |------|-------|---------|---------|
+| Laura Pozzi and Damian Mandzunowski | *Jiang Qing, the Iconic Anti-icon: Visual Dissection of Female Political Power in Post-Mao People's Republic of China* | *positions* 32 (3): 539–572 | 01/08/2024 | [10.1215/10679847-11164489](https://doi.org/10.1215/10679847-11164489) |
 | Lena Henningsen and Damian Mandzunowski | Book Review: John A. Lent & Xu Ying, *Comics Art in China* (Jackson: UP of Mississippi, 2023 [2017]), 234pp | *Journal of Asian Pacific Communication* | 21/12/2023 (online) | [10.1075/japc.00107.hen](http://dx.doi.org/10.1075/japc.00107.hen) |
