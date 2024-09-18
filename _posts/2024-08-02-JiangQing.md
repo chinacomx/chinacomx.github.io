@@ -6,7 +6,7 @@ categories: jekyll update
 image: /assets/images/PozziMandzunowski_FIG8.png
 ---
 
-A new research article jointly written by [Laura Pozzi](https://crsm.uw.edu.pl/staff/dr-laura-pozzi/) and ChinaComx researcher [Damian Mandzunowski](https://www.researchgate.net/profile/Damian-Mandzunowski) has been published in the [August 2024 issue](https://read.dukeupress.edu/positions/article/32/3/539/389998/Jiang-Qing-the-Iconic-Anti-icon-Visual-Dissection?guestAccessKey=8876242a-2f4a-4d53-8874-cbe49e98ce9a) of *positions: asia critique*. 
+A new research article jointly written by [Laura Pozzi](https://crsm.uw.edu.pl/staff/dr-laura-pozzi/) and ChinaComx researcher [Damian Mandzunowski](https://www.researchgate.net/profile/Damian-Mandzunowski) has been published in the [August 2024 issue](https://read.dukeupress.edu/positions/article-abstract/32/3/539/389998/Jiang-Qing-the-Iconic-Anti-icon-Visual-Dissection?redirectedFrom=fulltext) of *positions: asia critique*. 
 
 The article is now also available to read/download via project muse [here](https://muse.jhu.edu/pub/4/article/934949).
 
