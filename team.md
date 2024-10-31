@@ -14,7 +14,7 @@ The **ChinaComx** team are the following people:
 - Astrid XIAO, PhD Candidate,  is analyzing the aesthetics and theories of comics, particularly focusing on children’s lianhuanhua, educational policies, and adaptations.
 - Aijia ZHANG, PhD Candidate, is identifying recurrent imageries in lianhuanhua with computational methods to understand how they contributed to the identity building of their readers.
   
-Jérémy BIEHLER, Qin GU, and Bettina JIN are our current Research Assistants. 
+Jérémy BIEHLER, Qin GU, Bettina JIN, and XU Haoran are our current Research Assistants. 
 
 <!-- 
 
