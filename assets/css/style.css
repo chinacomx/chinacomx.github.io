@@ -970,7 +970,7 @@ body.home .footer-social {
 body.home .footer-social a img {
     width: 24px;
     margin: 0 10px
-
+}
     
 /* Carousel */  
     .carousel {
@@ -983,7 +983,7 @@ body.home .footer-social a img {
         gap: 16px;
         justify-content: center;
     }
-} 
+
       .carousel-inner {
         overflow: hidden;
       }
