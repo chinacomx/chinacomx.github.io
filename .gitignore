@@ -1,2 +1,5 @@
 
 Gemfile.lock
+.DS_Store
+.idea/
+assets/.DS_Store
