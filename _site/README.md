@@ -106,4 +106,5 @@ To publish you changes commit them into their own branch and open a pull request
 ### Further Reading and Tutorials
 -   [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 -   [GitHub Pages Documentation](https://help.github.com/en/github/working-with-github-pages)
--   [Programming Historian: Jekyll gh-pages Tutorial](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
+-   [Programming Historian: Getting Started with Markdown](https://programminghistorian.org/en/lessons/getting-started-with-markdown)
+-   [Programming Historian: Running a Collaborative Research Website and Blog with Jekyll and GitHub](https://programminghistorian.org/en/lessons/collaborative-blog-with-jekyll-github)
