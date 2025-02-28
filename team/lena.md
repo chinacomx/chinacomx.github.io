@@ -6,6 +6,7 @@ image: /assets/images/lena.jpg
 role: Principal Investigator
 description:  Adaptations into lianhuanhua.
 ---
+<img src="{{ '/assets/images/lena.jpg' | relative_url }}" style="float: left; width: 300px; margin-right: 15px;">
 
 Within the ChinaComx project, I currently work on a monograph on adaptations of the works and biography of Lu Xun into lianhuanhua. I am fascinated how these works inscribed Lu Xun into the revolutionary pantheon and into the literary canon of socialist China – while at the same time preserving the ambivalence so deeply ingrained in the works and life of Lu Xun. I also enjoy organizing workshops, translating lianhuanhua,preparing other people’s translations for our webpage and publishing widely on Chinese literature and culture.
 
@@ -13,7 +14,7 @@ Before returning to Heidelberg (where I did my PhD and a PostDoc), I was a Junio
  
 
 ### Research Interests
-Sustainability Strategy / Project Management / Stakeholder Engagement
+xyz / xyz / xyz / xyz / xyz
 
 ### Favorite Lianhuanhua
 bla bla bla bla bla bla
