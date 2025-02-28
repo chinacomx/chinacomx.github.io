@@ -4,17 +4,18 @@ title: Aijia Zhang
 permalink: /team/aijia/
 image: /assets/images/aijia.jpg
 role: Ph.D. Candidate
-description: Aijia short in lena md.
+description: Cmputational investigation of lianhuanhua.
 ---
 
-## About Aijia Zhang
+ My research focuses on lianhuanhua as a genre, exploring the messages and ideologies conveyed through these works using computational approaches. Employing visual language models and computational literary techniques, I analyze the depiction and evolution of specific characters, with particular attention to the hero archetype in lianhuanhua. Through a large-scale examination of lianhuanhua published after 1949, I investigate how heroes and related characters are shaped, identifying their defining traits and actions, and tracking how these representations evolved over time. My work seeks to uncover the underlying processes of collective construction that inform these portrayals. I also study the themes and narrative structures in lianhuanhua, identifying recurring patterns across varied stories to better understand how key messages and concepts are expressed and reshaped over time.
+ 
+### Research Interests
+Sustainability Strategy / Project Management / Stakeholder Engagement
 
-Lena Schmidt is the Project Lead, driving sustainability efforts in the initiative. She has extensive experience in managing interdisciplinary teams and ensuring impactful project execution.
+### Favorite Lianhuanhua
+bla bla bla bla bla bla
 
-### Expertise
-- Sustainability Strategy
-- Project Management
-- Stakeholder Engagement
+### Contact & Socials
+📧 [Email](link) / 👨🏻‍💻 [ResearchGate](https://www.researchgate.net/profile/Damian-Mandzunowski) / 🟢 [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-3318-6652) / ⚫️ [GitHub](https://github.com/damianodamiani) / 🦋 [Bluesky](link)
 
-### Contact
-You can reach Lena at [email@example.com](mailto:email@example.com).
+You can find out more about my recent updates on my Github (https://github.com/MeeBoo001).

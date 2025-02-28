@@ -11,7 +11,7 @@ The ChinaComx project is **supported administratively** by Jenja Tiede and by th
 
 - [Lena Henningsen](/team/lena/), Principal Investigator, who is writing about adaptations of literary texts into lianhuanhua with a specific focus on the literature of Lu Xun;
 - [Damian Mandzunowski](/team/damian/), Postdoctoral Researcher, who is working on the contemporary history of lianhuanhua through the lenses of politics, culture, and daily life;
-- [Jiu Song](/team/jiu/), Ph.D. Candidate, who is researching Chinese comics and fandom culture;
+- [Jiu Song](/team/jiu/), Ph.D. Candidate, who is researching  lianhuanhua fan culture and collective memory;
 - [Astrid Xiao](/team/astrid/), Ph.D. Candidate, who is analyzing the aesthetics and theories of comics, particularly focusing on children’s lianhuanhua, educational policies, and adaptations;
 - [Aijia Zhang](/team/aijia/), Ph.D. Candidate, who is identifying recurrent imageries in lianhuanhua with computational methods to understand how they contributed to the identity building of their readers.
 
