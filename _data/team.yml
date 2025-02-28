@@ -1,0 +1,30 @@
+team_members:
+  - name: Lena Henningsen
+    role: Principal Investigator 
+    description: Lena short in yeam yml.
+    image: /assets/images/lena.jpg
+    link: /team/lena
+
+  - name: Damian Mandzunowski
+    role: Postdoctoral Researcher
+    description: Damian short in yeam yml.
+    image: /assets/images/damian.jpg
+    link: /team/damian
+
+  - name: Jiu Song
+    role: Ph.D. Candidate
+    description: Jiu short in yeam yml.
+    image: /assets/images/jiu.jpg
+    link: /team/jiu
+
+  - name: Astrid Xiao
+    role: Ph.D. Candidate
+    description: Astrid short in yeam yml.
+    image: /assets/images/astrid.jpg
+    link: /team/astrid
+
+  - name: Aijia Zhang
+    role: Ph.D. Candidate
+    description: Aijia short in yeam yml.
+    image: /assets/images/aijia.jpg
+    link: /team/aijia

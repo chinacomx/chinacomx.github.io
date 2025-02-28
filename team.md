@@ -4,9 +4,10 @@ title: Team
 permalink: /team/
 ---
 
-The **ChinaComx** team are the following people:
+<img src="{{ '/assets/images/TeamPhotoOct2024.JPG' | relative_url }}" alt="ChinaComx">
+<p>ChinaComx in from of CATS in October 2024.</p>
 
-![ChinaComx in from of CATS in October 2024](assets/images/TeamPhotoOct2024.JPG)
+The **ChinaComx** team are the following people:
 
 - [Lena HENNINGSEN](https://www.zo.uni-heidelberg.de/sinologie/institute/staff/henningsen/), Principal Investigator, is writing about adaptations of literary texts into lianhuanhua with a specific focus on the literature of Lu Xun. ➡️ 👨🏻‍💻 [ResearchGate](https://www.researchgate.net/profile/Lena-Henningsen) 🟢 [ORCiD](https://orcid.org/0000-0001-7583-0920)
 - [Damian MANDZUNOWSKI](https://www.zo.uni-heidelberg.de/sinologie/institute/staff/mandzunowski/), PostDoc Researcher, is working on the contemporary history of lianhuanhua through the lenses of politics, culture, and daily life. ➡️ 👨🏻‍💻 [ResearchGate](https://www.researchgate.net/profile/Damian-Mandzunowski) 🟢 [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-3318-6652) 𝕏 [Twitter](https://x.com/zhong_daming) ⚫️ [GitHub](https://github.com/damianodamiani)
@@ -16,12 +17,30 @@ The **ChinaComx** team are the following people:
   
 Jérémy BIEHLER, Qin GU, Bettina JIN, and XU Haoran are our current Research Assistants. 
 
+
+
+## Team Members NEW
+
+<div class="team-section">
+  {% for member in site.data.team.team_members %}
+  <div class="team-member">
+    <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
+    <h3>{{ member.name }}</h3>
+    <p><strong>Role:</strong> {{ member.role }}</p>
+    <p>{{ member.description }}</p>
+    <a href="{{ member.link }}">See more about {{ member.name }}</a>
+  </div>
+  {% endfor %}
+</div>
+
+
+
+
+
 <!-- 
 
-<img src="{{ '/assets/images/team-placeholder.png' | relative_url }}" alt="Member 1">
-<p>Group photo to come!</p>
 
-## Team Members
+## Team Members OLD
 
 <div class="team-section">
   <div class="team-member">
@@ -79,4 +98,6 @@ Jérémy BIEHLER, Qin GU, Bettina JIN, and XU Haoran are our current Research As
 - Person 1
 - Person 2
 
---> 
+ -->
+
+
