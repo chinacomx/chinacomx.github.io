@@ -18,3 +18,5 @@ Lena Schmidt is the Project Lead, driving sustainability efforts in the initiati
 
 ### Contact
 You can reach Lena at [email@example.com](mailto:email@example.com).
+
+➡️ 👨🏻‍💻 [ResearchGate](https://www.researchgate.net/profile/Damian-Mandzunowski) 🟢 [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-3318-6652) 𝕏 [Twitter](https://x.com/zhong_daming) ⚫️ [GitHub](https://github.com/damianodamiani)

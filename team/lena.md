@@ -18,3 +18,5 @@ Lena Schmidt is the Project Lead, driving sustainability efforts in the initiati
 
 ### Contact
 You can reach Lena at [email@example.com](mailto:email@example.com).
+
+➡️ 👨🏻‍💻 [ResearchGate](https://www.researchgate.net/profile/Lena-Henningsen) 🟢 [ORCiD](https://orcid.org/0000-0001-7583-0920)
