@@ -15,8 +15,5 @@ Previous to joining Heidelberg University, I worked in two research projects at 
 ### Research interests
 PRC history / propaganda & political communication / visual culture / state socialism / photography, film & politics
 
-### Favorite lianhuanhua
-bla bla bla bla bla bla
-
 ### Contact & socials
 📧 [Email](mailto:damian.mandzunowski@zo.uni-heidelberg.de) | 🎓 [Institute website](https://www.zo.uni-heidelberg.de/sinologie/institute/staff/mandzunowski/) | 👨🏻‍💻 [ResearchGate](https://www.researchgate.net/profile/Damian-Mandzunowski) | 🟢 [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-3318-6652) | ⚫️ [GitHub](https://github.com/damianodamiani) | 🦋 [Bluesky](https://bsky.app/profile/damiandamiani.bsky.social)

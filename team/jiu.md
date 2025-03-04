@@ -13,8 +13,5 @@ My dissertation explores the engagement of ordinary citizens with lianhuanhua an
 ### Research interests
 xyz / xyz / xyz / xyz / xyz
 
-### Favorite lianhuanhua
-bla bla bla bla bla bla
-
 ### Contact & socials
 📧 [Email](mailto:jiu.song@zo.uni-heidelberg.de) | 🎓 [Institute website](https://www.zo.uni-heidelberg.de/sinologie/institute/staff/mandzunowski/) | 👨🏻‍💻 [ResearchGate](https://www.researchgate.net/profile/Damian-Mandzunowski) | 🟢 [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-3318-6652) | ⚫️ [GitHub](https://github.com/damianodamiani) | 🦋 [Bluesky](https://bsky.app/profile/damiandamiani.bsky.social)

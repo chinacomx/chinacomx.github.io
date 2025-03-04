@@ -14,10 +14,11 @@ The ChinaComx project is **supported administratively** by Jenja Tiede and by th
 
 Click on a team member's name to explore their research interests and find their contact and socials. You can also get in touch with the project through the [contact](/contact/) page.
 
+<!-- 
 <img src="{{ '/assets/images/TeamPhotoOct2024.JPG' | relative_url }}" alt="ChinaComx">
 <p><i>ChinaComx in front of CATS in October 2024.</i></p>
 
-<!-- 
+
 <div class="team-section">
   {% for member in site.data.team.team_members %}
   <div class="team-member">
