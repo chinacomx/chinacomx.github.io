@@ -1,0 +1,30 @@
+team_members:
+  - name: Lena Henningsen
+    role: Principal Investigator 
+    description: Adaptations of the works and biography of Lu Xun into lianhuanhua.
+    image: /assets/images/lena.jpg
+    link: /team/lena
+
+  - name: Damian Mandzunowski
+    role: Postdoctoral Researcher
+    description: Lianhuanhua in and out of the hands of politics.
+    image: /assets/images/damian.jpg
+    link: /team/damian
+
+  - name: Jiu Song
+    role: Ph.D. Candidate
+    description: Lianhuanhua fan culture and collective memory study.
+    image: /assets/images/jiu.jpg
+    link: /team/jiu
+
+  - name: Astrid Xiao
+    role: Ph.D. Candidate
+    description: Aesthetics and theories of lianhuanhua.
+    image: /assets/images/astrid.jpg
+    link: /team/astrid
+
+  - name: Aijia Zhang
+    role: Ph.D. Candidate
+    description: Computational investigation of lianhuanhua.
+    image: /assets/images/aijia.jpg
+    link: /team/aijia
