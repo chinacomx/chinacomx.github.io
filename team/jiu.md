@@ -14,4 +14,4 @@ My dissertation explores the engagement of ordinary citizens with lianhuanhua an
 fan culture / cultural memory / comics study
 
 ### Contact & socials
-📧 [Email](mailto:jiu.song@zo.uni-heidelberg.de) |  | 👨🏻‍💻 [ResearchGate](https://www.researchgate.net/profile/Jiu-Song-2) | 🟢 [ORCiD](https://orcid.org/0009-0006-0611-3593) | ⚫️ [GitHub](https://github.com/JiuS913)
+📧 [Email](mailto:jiu.song@zo.uni-heidelberg.de) | 👨🏻‍💻 [ResearchGate](https://www.researchgate.net/profile/Jiu-Song-2) | 🟢 [ORCiD](https://orcid.org/0009-0006-0611-3593) | ⚫️ [GitHub](https://github.com/JiuS913)
