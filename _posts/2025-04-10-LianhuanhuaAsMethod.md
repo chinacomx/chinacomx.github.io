@@ -15,4 +15,4 @@ We are looking forward to hearing two keynote lectures, by [Barbara Mittler](htt
 
 Join the workshop on **Thursday, Friday, and Saturday 24-26 April 2025 at CATS Heidelberg**.
 
-Click [here](../assets/images/2025-ChinaComxWorkshop-LianhuanhuaAsMethod_ProgramPublic.pdf) for the full workshop program in PDF, and [send us an email](mailto:chinacomx.erc@gmail.com) to register for participation. We look forward to welcoming you to Heidelberg soon!
+Click <a href="/assets/images/2025-ChinaComxWorkshop-LianhuanhuaAsMethod_ProgramPublic.pdf" download>here</a> for the full workshop program in PDF, and [send us an email](mailto:chinacomx.erc@gmail.com) to register for participation. We look forward to welcoming you to Heidelberg soon!
