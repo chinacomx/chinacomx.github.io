@@ -3,7 +3,7 @@ layout: post
 title: "ChinaComx Workshop Announcement: Lianhuanhua as Method, Heidelberg 24-26 April 2025"
 date: 2025-04-10
 categories: jekyll update
-image: assets/images/2025-ChinaComxWorkshop-LianhuanhuaAsMethod_Poster.png
+image: assets/images/2025-ChinaComxWorkshop-LianhuanhuaAsMethod_Poster.jpg
 ---
 
 To kickstart the second year of our research project, the ChinaComx team cordially invites scholars working in Europe on Chinese comics, cartoons, picture stories, and other visual narratives to participate in the three-day workshop under the theme of "Lianhuanhua as Method"! 
