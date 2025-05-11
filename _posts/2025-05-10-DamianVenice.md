@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Damian Mandzunowski to Present at the Sonic Histories of East Asia Conference, 15-16 May in Venice"
+date: 2025-05-10
+categories: jekyll update
+image: /assets/images/SonicHistoriesEastAsia2025.jpg
+
+---
+
+ChinaComx postdoc researcher [Damian Mandzunowski](https://chinacomx.github.io/team/damian/) is to take part in the conference "Sonic Histories of East Asia: Thinking History Through Sound" held on 15-16 May 2025 at the [Department of Asian and North African Studies at the Ca' Foscari University of Venice](https://www.unive.it/pag/28322/).
+
+The conference, arising from a growing reception of the sonic turn also in Chinese and Asian Studies, explores how sound, voice, noise, radio, and other auditory media and modes can contribute to a field of Sound Studies that remains dominated by theories drawn from Western experience.
+
+Damian will be presenting a chapter draft from his current book project on political study and other collective reading practices in the PRC. The paper, titled "Radio Study and the Sounds of Collective Reading Practices in the People’s Republic of China", focuses, in the first part, on the phenomenon of radio study (*guangbo xuexi*) of the 1950s-1980s, and, in the second part, on various diegetic and nondiegetic sounds of collective reading activites. 
+
+Click <a href="assets/images/SonicHistoriesEastAsia2025.pdf" download>here</a> for the program, and read more about Damian's paper in his abstract:
+> Collective reading practices were a defining feature in Chinese state-socialist propaganda efforts after 1949. Occurring via obligatory political study classes for workers, cadres, soldiers, and others, these social rituals involved session leaders conducting and collective readers engaging in guided group study and text discussion. But, to take part in any such collective reading session was inevitably linked to the act of (collective) listening. Leaders often read selected fragments aloud and offered insights through brief lectures, expecting the collective readers to listen attentively to their voice and presented contents. At times, the collective readers heard without listening: the communicated contents passed through the minds of the listeners without retention. Radio broadcasts and other auditory media were also used, especially in rural areas, extending political education and disseminating information and
+linking the auditory experience of politics with daily life. But these could break or malfunction, distorting the broadcast beyond comprehension. As recent scholarship has deepened our understanding of sound’s political uses (Lei 2019; Li 2020; Tang 2020; Santacaterina 2021; Wang 2022; Lekner 2022, 2024), this paper asks: In what ways did sound and voice work toward (or against) the goals pursued by organized forms of political study in the People’s Republic of China? In what ways did listening to Marx being read aloud differ from silent study of Marx? How did the voice, timbre, and enunciation of reading group leaders impact listeners' reception of Lenin? How, then, did the party-state prepare for and evaluate the auditory elements of collective reading? This paper presents a comprehensive study of radio study (guangbo xuexi 广播学习) and similar sound-based study methods, utilizing archival broadcasts, radio magazines, state archives, and memoirs. In examining the auditory ways of collective reading practices, it explores the uses and failures of political communication under state socialism.
