@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NEW: Conference Report by Nick Stember on the ChinaComx Workshop 'Lianhuanhua as Method'!"
+title: "Conference Report by Nick Stember on the ChinaComx Workshop 'Lianhuanhua as Method'!"
 date: 2025-05-15
 categories: jekyll update
 image: /assets/images/LhhAsMethod2025.jpg
