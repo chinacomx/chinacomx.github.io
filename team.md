@@ -4,7 +4,7 @@ title: Team
 permalink: /team/
 ---
 
-The ChinaComx **core research team** consists of:
+The ChinaComx **core research team** is:
 
 - [Lena Henningsen](/team/lena/), Principal Investigator, who is writing about adaptations of literary texts into lianhuanhua with a specific focus on the literature of Lu Xun;
 - [Damian Mandzunowski](/team/damian/), Postdoctoral Researcher, who is working on the contemporary history of lianhuanhua through the lenses of politics, culture, and daily life;
@@ -16,9 +16,11 @@ _Click on a team member's name to explore their research interests and find thei
 
 **ChinaComx visiting scholars**: [Ivan Gomes](https://www.transatlantic-cultures.org/fr/author/lima-gomes) (July 2025); Lara Y. Yang (July 2025); [Dayton Lekner](https://www.unive.it/data/people/27767015) (July-August 2025). 
 
-The current **research assistants** at ChinaComx are Jérémy Biehler, Veronica Ludwiczak, Haoran Xu, and Tilen Zupan. Previously, we enjoyed research assistance from Qin Gu and Bettina Jin.
+Our current **research assistants** are Jérémy Biehler, Veronica Ludwiczak, and Tilen Zupan. Previously, we enjoyed research assistance from Qin Gu and Bettina Jin. 
 
-The project is grateful for the **administrative support** from Jenja Tiede and Jérémy Biehler.
+New **collaborative translations** are currently in the works with assistance from Ayiguzaili Aboduaini, Javier Altayó, Jérémy Biehler, Chen Yun-rou, Haoran Xu, Jinyi Zhu, Tilen Zupan, and the ChinaComx Team. 
+
+The project is grateful for the **administrative support** from Jenja Tiede and the Sekretariat of the Institute of Chinese Studies.
 
 
 <!-- 
