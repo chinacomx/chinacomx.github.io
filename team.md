@@ -16,7 +16,7 @@ _Click on a team member's name to explore their research interests and find thei
 
 **ChinaComx visiting scholars**: [Ivan Gomes](https://www.transatlantic-cultures.org/fr/author/lima-gomes) (July 2025); Lara Y. Yang (July 2025); [Dayton Lekner](https://www.unive.it/data/people/27767015) (July-August 2025). 
 
-The current **research assistants** at ChinaComx are Jérémy Biehler, Haoran Xu, and Tilen Zupan. Previously, we enjoyed research assistance from Qin Gu and Bettina Jin.
+The current **research assistants** at ChinaComx are Jérémy Biehler, Veronica Ludwiczak, Haoran Xu, and Tilen Zupan. Previously, we enjoyed research assistance from Qin Gu and Bettina Jin.
 
 The project is grateful for the **administrative support** from Jenja Tiede and Jérémy Biehler.
 
