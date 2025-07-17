@@ -18,7 +18,7 @@ _Click on a team member's name to explore their research interests and find thei
 
 Our current **research assistants** are Jérémy Biehler, Veronica Ludwiczak, and Tilen Zupan. Previously, we enjoyed research assistance from Qin Gu and Bettina Jin. 
 
-New **collaborative translations** are currently in the works in collaborations with Ayiguzaili Aboduaini, Javier Altayó, Jérémy Biehler, Chen Yun-rou, Haoran Xu, Jinyi Zhu, Tilen Zupan, and the ChinaComx Team. 
+New **collaborative translations** are currently in the works in collaborations with Ayiguzaili Aboduaini, Jérémy Biehler, Chen Yun-rou, Haoran Xu, Jinyi Zhu, Tilen Zupan, and the ChinaComx Team. 
 
 The project is grateful for the **administrative support** from Jenja Tiede.
 
