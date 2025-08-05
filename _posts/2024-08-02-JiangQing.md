@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Research Article on Caricatures of Jiang Qing co-written by Damian Mandzunowski"
+title: "PUBLICATION ALERT: Article on Caricatures of Jiang Qing co-written by Damian Mandzunowski"
 date: 2024-08-02
 categories: jekyll update
 image: /assets/images/PozziMandzunowski_FIG8.png

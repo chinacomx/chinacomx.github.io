@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NEW PUBLICATION: Lena Henningsen's article on the Lianhuanhua Death(s) of Lu Xun in Closure"
+title: "PUBLICATION ALERT: Lena Henningsen's article on the Lianhuanhua Death(s) of Lu Xun in Closure"
 date: 2025-05-29
 categories: jekyll update
 image: /assets/images/LenaClosure.png
