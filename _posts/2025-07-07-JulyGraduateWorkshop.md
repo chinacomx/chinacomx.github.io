@@ -4,7 +4,6 @@ title: "Graduate Workshop 'Caricature and Comics in a Global Context' on 22 July
 date: 2025-07-07
 categories: jekyll update
 image: /assets/images/CaricatureAndComicsInAGlobalContext-poster.jpg
-
 ---
 
 We are cordially inviting you to join a graduate workshop titled **Caricature and Comics in a Global Context: Brazil, Turkey, Iran, Algeria, China, and Taiwan** to be held on **22 July 2025** between **8:45 and 18:30** at the **Seminarraum Werkstatt in [Albert-Ueberle-Weg 3-5](https://maps.app.goo.gl/4j2ZWLmW9QuP6bYx6)**.
