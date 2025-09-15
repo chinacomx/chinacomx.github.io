@@ -4,7 +4,6 @@ title: "Conference Report by Nick Stember on the ChinaComx Workshop 'Lianhuanhua
 date: 2025-05-15
 categories: jekyll update
 image: /assets/images/LhhAsMethod2025.jpg
-
 ---
 
 After a bit over a year since the ChinaComx project commenced, and just over half a year after the team was assembled and our daily work on all things lianhuanhua began, we [welcomed](https://chinacomx.github.io/jekyll/update/2025/04/10/LianhuanhuaAsMethod.html) to Heidelberg 18 scholars of Chinese (and Asian) cartoon, caricature, comics, lianhuanhua, and other related forms of pictorial narratives for an intensively productive albeit fun workshop on 24-26 April 2025. 

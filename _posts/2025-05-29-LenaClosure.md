@@ -4,7 +4,6 @@ title: "PUBLICATION ALERT: Lena Henningsen's article on the Lianhuanhua Death(s)
 date: 2025-05-29
 categories: jekyll update
 image: /assets/images/LenaClosure.png
-
 ---
 
 The recent edition of *Closure. Kieler Journal für Comicforschung*—a leading German comics studies journal—includes a new article by Lena Henningsen, ChinaComx PI, on the rich imagery of the death of Lu Xun within Chinese lianhuanhua comics. Navigating questions of legacy and visual memory, the article offers a glimpse into the larger project of Chinese Lu Xun comics that Lena is advancing within ChinaComx. 

@@ -4,7 +4,6 @@ title: "Lena Henningsen and Damian Mandzunowski to Present at the 'Competing for
 date: 2025-06-15
 categories: jekyll update
 image: /assets/images/prague2025.jpg
-
 ---
 
 ChinaComx PI, [Lena Henningsen](https://chinacomx.github.io/team/lena/), and postdoc researcher, [Damian Mandzunowski](https://chinacomx.github.io/team/damian/), are about to participate in an international symposium on transformations of cultural life in the PRC titled [Competing for the people’s eyes and ears from Mao to Xi: transformations of cultural life in the PRC](https://ksi.ff.cuni.cz/en/research/transformations-of-cultural-life-in-the-prc/) to be held at [Department of Sinology, Faculty of Arts, Charles University](https://ksi.ff.cuni.cz/en/) and [Chiang Ching-kuo Foundation International Sinological Centre at Charles University](http://www.cckf.org/en/about/structure/overseas_center/Charles_University) on June 27–28, 2025. 
