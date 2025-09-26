@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Song Jiu to Deliver a Speech at the China Academy of Art in Hangzhou"
+title: "Jiu Song to Deliver a Speech at the China Academy of Art in Hangzhou"
 date: 2025-09-13
 categories: jekyll update
 image: /assets/images/202509Jiu.jpg
 ---
 
-On September 15, 2025, at 18:00, ChinaComx Phd Candidate [Song Jiu](https://chinacomx.github.io/team/jiu/) will deliver a speech titled “Beyond Frames of Painting: Research Pathways into Lianhuanhua and Visual Narratives from a Global Perspective” (超越画格——全球视野下连环画与视觉叙事的研究路径) at the [China Academy of Art](https://en.caa.edu.cn/), Nanshan Campus, South Garden Conference Room. The lecture will be hosted by [Prof. Sheng Tianye](https://www.caa.edu.cn/sz/zzjs/shengtianye/zyjl.htm), Dean of the School of Chinese Painting, China Academy of Art.  
+On September 15, 2025, at 18:00, ChinaComx Phd Candidate [Jiu Song](https://chinacomx.github.io/team/jiu/) will deliver a speech titled “Beyond Frames of Painting: Research Pathways into Lianhuanhua and Visual Narratives from a Global Perspective” (超越画格——全球视野下连环画与视觉叙事的研究路径) at the [China Academy of Art](https://en.caa.edu.cn/), Nanshan Campus, South Garden Conference Room. The lecture will be hosted by [Prof. Sheng Tianye](https://www.caa.edu.cn/sz/zzjs/shengtianye/zyjl.htm), Dean of the School of Chinese Painting, China Academy of Art.  
 
 For the WeChat post in Chinese, see [here](https://mp.weixin.qq.com/s/tA_ILU2Kmjb3vB8l1RUflA), and the speech abstracts (in English and Chinese) are as follows: 
 
