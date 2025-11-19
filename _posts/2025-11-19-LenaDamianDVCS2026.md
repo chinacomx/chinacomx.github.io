@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lena Henningsen and Damian Mandzunowski to Present at the 2026 DVCS Conference in Hamburg on 21 November"
+title: "Lena Henningsen and Damian Mandzunowski to Present at the 2025 DVCS Conference in Hamburg on 21 November"
 date: 2025-11-18
 categories: jekyll update
 image: /assets/images/202511DVCS.png
