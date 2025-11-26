@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Astrid Y. Xiao to Present on Food and Lianhuanhua on 28 November at Ca’ Foscari University, Venice"
-date: 2025-11-18
+date: 2025-11-22
 categories: jekyll update
 image: assets/images/202511Astrid.jpg
 ---
