@@ -25,13 +25,38 @@ let folderToImagesMap = {};
 
 async function fetchImages() {
   for (let folder of folders) {
-    const response = await fetch(folder);
-    const data = await response.json();
-    const folderImages = data.filter(item => item.type === "file").map(item => item.download_url);
-    folderToImagesMap[folder] = folderImages;
-    images.push(...folderImages);
+    try {
+      const response = await fetch(folder);
+      
+      // 1. Check if the folder actually exists (Status 200 OK)
+      if (!response.ok) {
+        console.warn(`Skipping folder (Status ${response.status}): ${folder}`);
+        continue; // Skip to the next folder, don't crash!
+      }
+
+      const data = await response.json();
+
+      // 2. Check if the data is actually an array (sometimes API returns an error object)
+      if (!Array.isArray(data)) {
+        console.warn(`Skipping folder (Not an array): ${folder}`);
+        continue; 
+      }
+
+      const folderImages = data.filter(item => item.type === "file").map(item => item.download_url);
+      folderToImagesMap[folder] = folderImages;
+      images.push(...folderImages);
+
+    } catch (error) {
+      console.error(`Error loading ${folder}:`, error);
+    }
   }
-  selectRandomImage();
+
+  // Only run this if we actually found images
+  if (images.length > 0) {
+    selectRandomImage();
+  } else {
+    console.error("No images loaded from any folder.");
+  }
 }
 
 function selectRandomImage() {
