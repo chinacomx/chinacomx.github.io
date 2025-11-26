@@ -4,7 +4,9 @@ const folders = [
     "https://api.github.com/repos/chinacomx/translations/contents/public/images/luxun/YifuMukeDeGushi",
     "https://api.github.com/repos/chinacomx/translations/contents/public/images/luxun/ZuihouYiciXunli",
     "https://api.github.com/repos/chinacomx/translations/contents/public/images/niqiu",
-    "https://api.github.com/repos/chinacomx/translations/contents/public/images/zhufu"
+    "https://api.github.com/repos/chinacomx/translations/contents/public/images/zhufu",
+    "https://api.github.com/repos/chinacomx/translations/contents/public/images/leifeng",
+    "https://api.github.com/repos/chinacomx/translations/contents/public/images/wushengdezhandou"
 ];
 
 const folderDescriptionMap = {
@@ -13,8 +15,10 @@ const folderDescriptionMap = {
     "https://api.github.com/repos/chinacomx/translations/contents/public/images/luxun/YifuMukeDeGushi": 'From "Die Geschichte eines Holzschnitts 一幅木刻的故事" by Lu Xun 鲁迅, Illustrationen: Fan Yixin 范一辛, Shanghai: Shanghai renmin chubanshe, 1976. For the full lianhuanhua in original and translation, see <a href="https://chinacomx.github.io/translations/luxun/">here</a>.',
     "https://api.github.com/repos/chinacomx/translations/contents/public/images/luxun/ZuihouYiciXunli": 'From "Der letzte Besuch 最后一次巡礼" by Lu Xun 鲁迅, Illustrationen: Sheng Zengxiang 盛增祥, Shanghai: Shanghai renmin chubanshe, 1976. For the full lianhuanhua in original and translation, see <a href="https://chinacomx.github.io/translations/luxun/">here</a>.',
     "https://api.github.com/repos/chinacomx/translations/contents/public/images/niqiu": 'From "Niqiu Protects the Watermelons 泥鳅看瓜" with illustrations by Zhong Shan 钟山, Tianjian: Tianjin renmin meishu chubanshe, 1974. For the full lianhuanhua in original and translation, see <a href="https://chinacomx.github.io/translations/niqiu/">here</a>.',
-    "https://api.github.com/repos/chinacomx/translations/contents/public/images/zhufu": 'From "The New Years Sacrifice 祝福" by Lu Xun 鲁迅, illustrated by Yong Xiang 永祥, Hong Ren 洪仁, Yao Qiao 姚巧, Beijing: Beijing renmin meishu chubanshe, 1974. For the full lianhuanhua in original and translation, see <a href="https://chinacomx.github.io/translations/zhufu/">here</a>.'
-};
+    "https://api.github.com/repos/chinacomx/translations/contents/public/images/zhufu": 'From "The New Years Sacrifice 祝福" by Lu Xun 鲁迅, illustrated by Yong Xiang 永祥, Hong Ren 洪仁, Yao Qiao 姚巧, Beijing: Beijing renmin meishu chubanshe, 1974. For the full lianhuanhua in original and translation, see <a href="https://chinacomx.github.io/translations/zhufu/">here</a>.',
+    "https://api.github.com/repos/chinacomx/translations/contents/public/images/leifeng": 'From "Lei Feng’s Youth Years 雷锋的少年时代", adapted by Liu Hanzhen 刘含真, illustrated by Qian Guisun 钱贵荪, Beijing: Renmin meishu chubanshe, 1973. For the full lianhuanhua in original and translation, see <a href="https://chinacomx.github.io/translations/leifeng">here</a>.',
+    "https://api.github.com/repos/chinacomx/translations/contents/public/images/wushengdezhandou": 'From "The Silent Fight 无声的战斗", illustrated by Wu Dacheng 吴大成, adapted from the work of Huo Miao 火苗, by Dong Yaogen 董耀根, Shanghai People’s Press, 1976. For the full lianhuanhua in original and translation, see <a href="https://chinacomx.github.io/translations/wushengdezhandou/">here</a>.'
+  };
  
 let images = [];
 let folderToImagesMap = {};
