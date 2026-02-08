@@ -14,10 +14,10 @@ Beyond my historical research, I serve as the project’s coordinator for graphi
 
 Prior to joining Heidelberg University, I contributed to the research projects [“The Politics of Reading in the PRC“](https://readchina.github.io/) and ["The Maoist Legacy: Party Dictatorship, Transitional Justice and the Politics of Truth"](https://www.maoistlegacy.de/) at the University of Freiburg. I am also an editor and collaborator in the ongoing international project [“Revisiting the Revolution: Engaging Chinese Scholarship through Collaborative Translation”](https://networks.h-net.org/group/pages/20033515/revisiting-revolution). My first monograph, currently in preparation, tackles the phenomenon of political study and other collective reading practices in the PRC. 
 
-Visit my personal website for more details about my work. 
+Visit [my personal website](https://damianmandzunowski.com/) for more details about my work.
 
 ### Research interests
 PRC history / propaganda & political communication / visual culture / state socialism / photography, film & politics
 
 ### Contact & socials
-📧 [Email](mailto:damian.mandzunowski@zo.uni-heidelberg.de) | 🎓 [Institute website](https://www.zo.uni-heidelberg.de/de/china/institut/personen/mandzunowski) | 👨🏻‍💻 [ResearchGate](https://www.researchgate.net/profile/Damian-Mandzunowski) | 🟢 [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-3318-6652) | ⚫️ [GitHub](https://github.com/damianodamiani) | 🦋 [Bluesky](https://bsky.app/profile/damiandamiani.bsky.social)
+📧 [Email](mailto:damian.mandzunowski@zo.uni-heidelberg.de) | 🎓 [Institute website](https://www.zo.uni-heidelberg.de/de/china/institut/personen/mandzunowski) | 👨🏻‍💻 [ResearchGate](https://www.researchgate.net/profile/Damian-Mandzunowski) | 🟢 [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-3318-6652) | ⚫️ [GitHub](https://github.com/damianodamiani) | 🦋 [Bluesky](https://bsky.app/profile/damiandamiani.bsky.social) | 📚 [Website](https://damianmandzunowski.com/)
