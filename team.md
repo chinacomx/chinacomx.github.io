@@ -14,11 +14,11 @@ The ChinaComx **core research team** is:
 
 _Click on a team member's name to explore their research interests and find their contact and socials. You can also get in touch with the project through the [contact](/contact/) page._
 
-**ChinaComx visiting scholars**: [Ivan Gomes](https://www.transatlantic-cultures.org/fr/author/lima-gomes) (July 2025); Lara Y. Yang (July 2025); [Dayton Lekner](https://www.unive.it/data/people/27767015) (July-August 2025). 
+**ChinaComx visiting scholars**: [Ivan Gomes](https://www.transatlantic-cultures.org/fr/author/lima-gomes) (July 2025 and January 2026); Lara Y. Yang (July 2025); [Dayton Lekner](https://www.unive.it/data/people/27767015) (July-August 2025). 
 
-Our current **research assistants** are Jérémy Biehler, Veronica Ludwiczak, and Tilen Zupan. Previously, we enjoyed research assistance from Qin Gu and Bettina Jin. 
+Our current **research assistants** are Veronica Ludwiczak and Tilen Zupan. Previously, we enjoyed research assistance from Qin Gu, Bettina Jin, Jérémy Biehler, and Xiaojie Chang.
 
-New **collaborative translations** are currently in the works in collaborations with Ayiguzaili Aboduaini, Jérémy Biehler, Chen Yun-rou, Haoran Xu, Jinyi Zhu, Tilen Zupan, and the ChinaComx Team. 
+New **collaborative translations** are currently in the works in collaborations with Nikolas Broy, Max Oidtmann, Ayiguzaili Aboduaini, Jérémy Biehler, Yun-Jou Chen, Haoran Xu, Jinyi Zhu, Tilen Zupan, and the ChinaComx Team. 
 
 The project is grateful for the **administrative support** from Jenja Tiede.
 
