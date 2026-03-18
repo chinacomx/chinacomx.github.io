@@ -1015,4 +1015,81 @@ body.home .footer-social a img {
       }
 
  
-                 
+                 /* =========================================
+   Homepage Split Layout (Activities & Spotlight)
+   ========================================= */
+
+.homepage-split-layout {
+    display: grid;
+    grid-template-columns: 1fr; /* Mobile first: stacks vertically on phones */
+    gap: 3rem; /* Space between the two columns */
+    align-items: start;
+}
+
+/* Kicks in on screens wider than 900px (Desktop/Tablet) */
+@media (min-width: 900px) {
+    .homepage-split-layout {
+        /* Makes Activities slightly wider (1.5) than the Spotlight (1) */
+        grid-template-columns: 1.5fr 1fr; 
+    }
+}
+
+/* Make sure the post-grid inside the split layout adapts properly */
+.homepage-split-layout .post-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 16px;
+    justify-content: start;
+}
+
+.homepage-split-layout .post-card {
+    width: 100%; /* Override the fixed width from the previous grid */
+    margin: 0;
+}
+
+/* Styling for the Spotlight box */
+.spotlight-card {
+    background: #fff;
+    border-radius: 8px;
+    padding: 24px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Matches your post-card shadow */
+    transition: transform 0.3s;
+}
+
+.spotlight-card:hover {
+    transform: translateY(-8px); /* Matches your post-card hover effect */
+}
+
+.spotlight-card h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 1.5em; /* Match the News & Activities header */
+}
+
+.spotlight-card img {
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    object-fit: cover;
+}
+
+.spotlight-btn {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 10px 20px;
+    background: #B52931; /* Uses your site's primary red */
+    color: #F4F1EA; /* Uses your site's off-white */
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+    text-align: center;
+    width: 100%; /* Make button span full width of the card */
+    box-sizing: border-box;
+}
+
+.spotlight-btn:hover {
+    background: #521600; /* Uses your site's dark red/brown on hover */
+    color: #F4F1EA;
+    text-decoration: none;
+}

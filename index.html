@@ -3,6 +3,7 @@ layout: default
 ---
 
 <div class="container">
+    
     <section class="splash">
         <div class="splash-content">
             <div class="splash-right">
@@ -12,41 +13,58 @@ layout: default
         </div>
         <a href="#posts" class="scroll-down">&#8595;</a>
     </section>
-    <section id="posts" class="content-wrapper">
-        <div class="container">
-            <h2>News & Activities</h2>
-            <div class="post-navigation-arrows">
-                {% if current_page > 1 %}
-                    <a href="{{ paginator.previous_page_path | default: '/' | append: '?page=' | append: current_page | minus: 1 }}" class="arrow prev-arrow">&#8249;</a>
-                {% endif %}
-                <div class="post-grid">
-                    {% assign posts_per_page = 3 %}
-                    {% assign total_posts = site.posts.size %}
-                    {% assign total_pages = total_posts | divided_by: posts_per_page | ceil %}
-                    {% assign current_page = page | default: 1 %}
-                    
-                    {% assign offset = current_page | times: posts_per_page | minus: posts_per_page %}
-                    {% assign posts_to_show = site.posts | slice: offset, posts_per_page %}
 
-                    {% for post in posts_to_show %}
-                        <div class="post-card">
-                            <a href="{{ post.url }}">
-                                {% if post.image %}
-                                    <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="post-image">
-                                {% endif %}
-                                <div class="post-info">
-                                    <h3>{{ post.title }}</h3>
-                                    <p class="post-date">{{ post.date | date: "%d %B %Y" }}</p>
-                                    <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
-                                </div>
-                            </a>
-                        </div>
-                    {% endfor %}
+    <section id="posts" class="content-wrapper">
+        <div class="container homepage-split-layout">
+            
+            <div class="split-column activities-column">
+                <h2>News & Activities</h2>
+                <div class="post-navigation-arrows">
+                    {% if current_page > 1 %}
+                        <a href="{{ paginator.previous_page_path | default: '/' | append: '?page=' | append: current_page | minus: 1 }}" class="arrow prev-arrow">&#8249;</a>
+                    {% endif %}
+                    
+                    <div class="post-grid">
+                        {% assign posts_per_page = 3 %}
+                        {% assign total_posts = site.posts.size %}
+                        {% assign total_pages = total_posts | divided_by: posts_per_page | ceil %}
+                        {% assign current_page = page | default: 1 %}
+                        
+                        {% assign offset = current_page | times: posts_per_page | minus: posts_per_page %}
+                        {% assign posts_to_show = site.posts | slice: offset, posts_per_page %}
+
+                        {% for post in posts_to_show %}
+                            <div class="post-card">
+                                <a href="{{ post.url }}">
+                                    {% if post.image %}
+                                        <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="post-image">
+                                    {% endif %}
+                                    <div class="post-info">
+                                        <h3>{{ post.title }}</h3>
+                                        <p class="post-date">{{ post.date | date: "%d %B %Y" }}</p>
+                                        <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
+                                    </div>
+                                </a>
+                            </div>
+                        {% endfor %}
+                    </div>
+
+                    {% if current_page < total_pages %}
+                        <a href="{{ paginator.next_page_path | default: '/' | append: '?page=' | append: current_page | plus: 1 }}" class="arrow next-arrow">&#8250;</a>
+                    {% endif %}
                 </div>
-                {% if current_page < total_pages %}
-                    <a href="{{ paginator.next_page_path | default: '/' | append: '?page=' | append: current_page | plus: 1 }}" class="arrow next-arrow">&#8250;</a>
-                {% endif %}
             </div>
+
+            <div class="split-column spotlight-card">
+                <h2>Lianhuanhua Spotlight</h2>
+                <a href="/translations/">
+                    <img src="/assets/images/splash-image.png" alt="Featured Comic">
+                </a>
+                <h3 style="margin-top: 0;">Title of the Comic</h3>
+                <p>A brief, engaging description of this month's featured lianhuanhua. You can manually update this text to highlight a new translation.</p>
+                <a href="/translations/" class="spotlight-btn">Read the Translation</a>
+            </div>
+
         </div>
     </section>
 </div>
