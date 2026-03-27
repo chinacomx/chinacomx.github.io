@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Lena Henningsen to Present at the 2026 Colloque “Translating Comics” in Paris on 11 April"
+date: 2026-03-31
+categories: jekyll update
+image: assets/images/202604LenaParispicture.png
+---
+
+Our PI, [Lena Henningsen](https://chinacomx.github.io/team/lena/), will take part in the colloque [“Translating Comics: Between Bubbles, Cultures, and Constraints in East Asia”](https://crpm.parisnanterre.fr/colloques-journees-detudes/colloques-journees-detude/colloque-international-translating-comics-between-bubbles-cultures-and-constraints-in-east-asia) held at [Paris Nanterre University](https://university.parisnanterre.fr/) and the [National Institute of Art History (INHA)](https://www.inha.fr/en/), Paris, from 10 to 11 April 2026.
+
+The conference explores key challenges in the translation of comics at the intersection of literature, visual semiotics, and culture. It addresses issues such as the spatial constraints of text in graphic narratives, the translation of humor and cultural references, and the role of publishing norms and censorship across different cultural contexts. Particular attention is given to translations involving Asian languages, including Chinese (manhua), Japanese (manga), and Korean (manhwa), as well as to adaptation as a form of translation.
+
+Lena will present her talk, “__Adaptation and Transmediation__”, on 11 April from _15:40_ to _16:15_ at the __INHA (Walter Benjamin Room)__. Her contribution forms part of a broader panel addressing translation, adaptation, and cross-media transformation in East Asian comic traditions. 
+
+Abstract:
+> Adaptation and transmedial processes are constitutive of Chinese lianhuanhua. The rise of lianhuanhua in the early 20th century was intricately linked to the business of producing comic adaptations of the latest movies; later, adaptations of film, of fiction, and other texts, including diaries, continued into the Mao era. Moreover, lianhuanhua artists consciously employed, or quoted, topoi and tropes from other fields of culture, including caricature, propaganda posters, and the visual arts more generally, ranging from traditional painting styles to modernist woodcut prints. Adaptation, thus, is transmediation. At times, it was highly didactic; adaptation also served to communicate clear political messages on distinct topics. However, with scholars of adaptation studies (Hutcheon, Sanders, or Baetens), I want to emphasize that works of adaptation are never “just” derivative works that duplicate or parrot a message communicated in the alleged original work. Rather, they need to be considered as works in their own right. In their recombination of previous elements and in their (re)interpretation of the alleged original (or, sometimes, originals), they tend to find their own voice and their own messages in their distinct combination of image and text, navigating a simplification of the text and ambivalence in the visuals. Using one literary (“Diary of a Madman” by Lu Xun), one cinematic (Norman Bethune), and one musical example (the biography of Abing, a blind street musician), I will trace these processes of adaptation and transmediation. They point, I argue, not only to a core characteristic of this form of art, but also to the wider processes of adaptation in (popular) cultural production in China.
+
+Click [here](assets/images/202604Lenaabstracts_00.png) for the colloque program in PNG, or head over to the [colloque's website](https://ceei.hypotheses.org/28918) for more information.
