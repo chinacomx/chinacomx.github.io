@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Lena Henningsen to Present at the 2026 colloquium 'Translating Comics' in Paris on 11 April"
-date: 2026-03-31
+title: "Lena Henningsen to Present at the 2026 Colloquium 'Translating Comics' in Paris on 11 April"
+date: 2026-03-27
 categories: jekyll update
 image: assets/images/202604LenaParispicture.png
 ---
 
-Our PI, [Lena Henningsen](https://chinacomx.github.io/team/lena/), will take part in the olloquium [“Translating Comics: Between Bubbles, Cultures, and Constraints in East Asia”](https://crpm.parisnanterre.fr/colloques-journees-detudes/colloques-journees-detude/colloque-international-translating-comics-between-bubbles-cultures-and-constraints-in-east-asia) held at [Paris Nanterre University](https://university.parisnanterre.fr/) and the [National Institute of Art History (INHA)](https://www.inha.fr/en/), Paris, from 10 to 11 April 2026.
+Our PI, [Lena Henningsen](https://chinacomx.github.io/team/lena/), will take part in the colloquium [“Translating Comics: Between Bubbles, Cultures, and Constraints in East Asia”](https://crpm.parisnanterre.fr/colloques-journees-detudes/colloques-journees-detude/colloque-international-translating-comics-between-bubbles-cultures-and-constraints-in-east-asia) held at [Paris Nanterre University](https://university.parisnanterre.fr/) and the [National Institute of Art History (INHA)](https://www.inha.fr/en/), Paris, from 10 to 11 April 2026.
 
 The conference explores key challenges in the translation of comics at the intersection of literature, visual semiotics, and culture. It addresses issues such as the spatial constraints of text in graphic narratives, the translation of humor and cultural references, and the role of publishing norms and censorship across different cultural contexts. Particular attention is given to translations involving Asian languages, including Chinese (manhua), Japanese (manga), and Korean (manhwa), as well as to adaptation as a form of translation.
 
