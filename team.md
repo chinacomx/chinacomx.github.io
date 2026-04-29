@@ -14,14 +14,13 @@ The ChinaComx **core research team** is:
 
 _Click on a team member's name to explore their research interests and find their contact and socials. You can also get in touch with the project through the [contact](/contact/) page._
 
-**ChinaComx visiting scholars**: [Ivan Gomes](https://www.transatlantic-cultures.org/fr/author/lima-gomes) (July 2025 and January 2026); Lara Y. Yang (July 2025); [Dayton Lekner](https://www.unive.it/data/people/27767015) (July-August 2025). 
+**ChinaComx visiting scholars**: [Amelia Kin Wai Chu](https://research.flw.ugent.be/en/kinwai.chu) (June 2026), [Chang Hasheminezhad-Li](https://ssu.elearning.unipd.it/mod/page/view.php?id=445439) (June 2026), [Ivan Gomes](https://www.transatlantic-cultures.org/fr/author/lima-gomes) (July 2025 and January 2026); Lara Y. Yang (July 2025); [Dayton Lekner](https://www.unive.it/data/people/27767015) (July-August 2025). 
 
-Our current **research assistants** are Veronica Ludwiczak and Tilen Zupan. Previously, we enjoyed research assistance from Qin Gu, Bettina Jin, Jérémy Biehler, and Xiaojie Chang.
+Our current **research assistant** is Tilen Zupan. Previously, we enjoyed research assistance from Jérémy Biehler, Xiaojie Chang, Qin Gu, Bettina Jin and  Veronica Ludwiczak.
 
-New **collaborative translations** are currently in the works in collaborations with Nikolas Broy, Max Oidtmann, Ayiguzaili Aboduaini, Jérémy Biehler, Yun-Jou Chen, Haoran Xu, Jinyi Zhu, Tilen Zupan, and the ChinaComx Team. 
+For our **collaborative translations** - past, present and future - we are or have been collaborating with Ayiguzaili Aboduaini, Jérémy Biehler, Niklas Born, Nikolas Broy, Yun-Jou Chen, Britta Dick, Max Oidtmann, Haoran Xu, Jinyi Zhu, Tilen Zupan, and the ChinaComx Team.
 
-The project is grateful for the **administrative support** from Jenja Tiede.
-
+The project is grateful for the **administrative support** from Jérémy Biehler, and for the past support from Jenja Tiede.
 
 <!-- 
 <img src="{{ '/assets/images/TeamPhotoOct2024.JPG' | relative_url }}" alt="ChinaComx">
