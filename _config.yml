@@ -19,3 +19,5 @@ defaults:
 # Pagination settings
 paginate: 3
 paginate_path: "/page:num/"
+
+timezone: Europe/Berlin
