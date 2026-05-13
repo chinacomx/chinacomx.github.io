@@ -19,15 +19,33 @@ const folderDescriptionMap = {
 let images = [];
 let folderToImagesMap = {};
 
+// ⚡ Bolt: Optimized image fetching using Promise.all to load folders in parallel
+// 🎯 Why: Previously, 6 GitHub API endpoints were fetched sequentially, causing network waterfalls and slow carousel loading
+// 📊 Impact: Reduces total fetch time roughly from sum(T1..T6) to max(T1..T6), significantly faster LCP
 async function fetchImages() {
-  for (let folder of folders) {
-    const response = await fetch(folder);
-    const data = await response.json();
-    const folderImages = data.filter(item => item.type === "file").map(item => item.download_url);
-    folderToImagesMap[folder] = folderImages;
-    images.push(...folderImages);
+  try {
+    const fetchPromises = folders.map(async (folder) => {
+      const response = await fetch(folder);
+      const data = await response.json();
+      return { folder, data };
+    });
+
+    const results = await Promise.all(fetchPromises);
+
+    for (let { folder, data } of results) {
+      if (Array.isArray(data)) {
+        const folderImages = data.filter(item => item.type === "file").map(item => item.download_url);
+        folderToImagesMap[folder] = folderImages;
+        images.push(...folderImages);
+      }
+    }
+  } catch (error) {
+    console.error("⚡ Bolt: Failed to fetch images", error);
+  } finally {
+    if (images.length > 0) {
+      selectRandomImage();
+    }
   }
-  selectRandomImage();
 }
 
 function selectRandomImage() {
