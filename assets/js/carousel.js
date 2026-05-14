@@ -30,13 +30,18 @@ async function fetchImages() {
       return { folder, data };
     });
 
-    const results = await Promise.all(fetchPromises);
+    const results = await Promise.allSettled(fetchPromises);
 
-    for (let { folder, data } of results) {
-      if (Array.isArray(data)) {
-        const folderImages = data.filter(item => item.type === "file").map(item => item.download_url);
-        folderToImagesMap[folder] = folderImages;
-        images.push(...folderImages);
+    for (let result of results) {
+      if (result.status === 'fulfilled') {
+        const { folder, data } = result.value;
+        if (Array.isArray(data)) {
+          const folderImages = data.filter(item => item.type === "file").map(item => item.download_url);
+          folderToImagesMap[folder] = folderImages;
+          images.push(...folderImages);
+        }
+      } else {
+        console.warn("⚡ Bolt: Failed to fetch a folder", result.reason);
       }
     }
   } catch (error) {
