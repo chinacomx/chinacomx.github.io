@@ -9,8 +9,13 @@ const folders = [
     "https://api.github.com/repos/chinacomx/translations/contents/public/images/wushengdezhandou"
     "https://api.github.com/repos/chinacomx/translations/contents/public/images/bethune/bethune1973"
     "https://api.github.com/repos/chinacomx/translations/contents/public/images/bethune/bethune1979"
-
-
+    "https://api.github.com/repos/chinacomx/translations/contents/public/images/bethune/tweezers"
+    "https://api.github.com/repos/chinacomx/translations/contents/public/images/bethune/gongchandangyuan"
+    "https://api.github.com/repos/chinacomx/translations/contents/public/images/bethune/yanghe"
+    "https://api.github.com/repos/chinacomx/translations/contents/public/images/bethune/renyu"
+    "https://api.github.com/repos/chinacomx/translations/contents/public/images/bethune/uncle"
+    "https://api.github.com/repos/chinacomx/translations/contents/public/images/bethune/nezha"
+    "https://api.github.com/repos/chinacomx/translations/contents/public/images/bethune/bingconglin"
 ];
 
 const folderDescriptionMap = {
@@ -24,7 +29,14 @@ const folderDescriptionMap = {
     "https://api.github.com/repos/chinacomx/translations/contents/public/images/wushengdezhandou": 'From "The Silent Fight 无声的战斗", illustrated by Wu Dacheng 吴大成, adapted from the work of Huo Miao 火苗, by Dong Yaogen 董耀根, Shanghai People’s Press, 1976. For the full lianhuanhua in original and translation, see <a href="https://chinacomx.github.io/translations/wushengdezhandou/">here</a>.'
     "https://api.github.com/repos/chinacomx/translations/contents/public/images/bethune/bethune1973": 'From "Norman Bethune 白求恩", , edited by Wu Wenhuan 吴文焕, drawn by Hu Kewen 胡克文, Sheng Liangxian 盛亮贤, and Zhou Yunda 周允达, Shanghai: Shanghai renmin chubanshe, 1973. For the full lianhuanhua in original and translation, see <a href="https://chinacomx.github.io/translations/bethune/bethune1973/">here</a>.'
     "https://api.github.com/repos/chinacomx/translations/contents/public/images/bethune/bethune1979": 'From "Doctor Bethune 白求恩大夫", provided by Shanghai Film Studio 上海电影制片厂, adapted by Wu Wenhuan 吴文焕, Shanghai: Shanghai renmin meishu chubanshe, 1979. For the full lianhuanhua in original and translation, see <a href="https://chinacomx.github.io/translations/bethune/bethune1979/">here</a>.'
-  };
+    "https://api.github.com/repos/chinacomx/translations/contents/public/images/bethune/tweezers": 'From "A Pair of Tweezers 一把镊子", adaptation and woodcut illustration by Wu Weide 邬维德, published in <i>Fuchunjiang huabao</i> 富春江画报, no. 343, 1981, pp. 14. For the full lianhuanhua in original and translation, see <a href="https://chinacomx.github.io/translations/tweezers/">here</a>.'
+    "https://api.github.com/repos/chinacomx/translations/contents/public/images/bethune/gongchandangyuan": 'From "Are you a Communist? 你是共产党员吗", illustrated by Wang Jieyin 王劼音, text by Bai Wanchun 柏万春 and Chen Kehui 陈克会, adapted from an eponymous novel by Zhang Lin 张林, published in <i>Lianhuanhua bao</i> 连环画报 07/1981 (92), pp. ii-8. For the full lianhuanhua in original and translation, see <a href="https://chinacomx.github.io/translations/gongchandangyuan/">here</a>.'
+    "https://api.github.com/repos/chinacomx/translations/contents/public/images/bethune/yanghe": 'From "By the Yang River 洋河边上", adapted by Zhi Yi 志一, illustrated by Ye Yongsen 叶永森, Tianjin: Tianjin renmin meishu chubanshe, 1974. For the full lianhuanhua in original and translation, see <a href="https://chinacomx.github.io/translations/yanghe/">here</a>.'
+    "https://api.github.com/repos/chinacomx/translations/contents/public/images/bethune/renyu": 'From "Mermaid 人鱼", written and drawn by He Yongkun 何永坤 and Li Danwu 李旦武, published in <i>Aomi huakan</i> 奥秘画刊 01/1982 (12), pp. 15-18. For the full lianhuanhua in original and translation, see <a href="https://chinacomx.github.io/translations/renyu/">here</a>.'
+    "https://api.github.com/repos/chinacomx/translations/contents/public/images/bethune/uncle": 'From "My Uncle Jules 我的叔叔于勒", adapted from the French original by Guy de Maupassant by Sun Yufan, illustrated by Pang Bangben, published in <i>Lianhuanhua bao</i> 连环画报 08/1980, pp.13-161. For the full lianhuanhua in original and translation, see <a href="https://chinacomx.github.io/translations/uncle/">here</a>.'
+    "https://api.github.com/repos/chinacomx/translations/contents/public/images/bethune/nezha": 'From "Nezha Wreaks Havoc in the East Sea 哪吒闹东海", adapted by Bai Yu 白宇, illustrated by Chen Huiguan 陈惠冠, People’s Fine Arts Publishing House, 1985. For the full lianhuanhua in original and translation, see <a href="https://chinacomx.github.io/translations/nezha/">here</a>.'
+    "https://api.github.com/repos/chinacomx/translations/contents/public/images/bethune/bingconglin": 'From "The Legend of Bing Conglin 冰聪林传奇", written by Und1c1 and Super Crystal Monkey, illustrated by Super Crystal Monkey, Xiaohongshu, 2024. For the full lianhuanhua in original and translation, see <a href="https://chinacomx.github.io/translations/bingconglin/">here</a>.'
+};
  
 let images = [];
 let folderToImagesMap = {};
