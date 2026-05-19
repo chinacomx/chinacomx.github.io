@@ -1,0 +1,20 @@
+---
+title: "ERC-ChinaComx Begins Its Journey Into the World of Chinese Comics"
+date: 2024-01-15
+type: "article"
+aliases:
+    - jekyll/update/2024/01/15/welcome.html
+---
+
+{{< figure src="feature.png" >}}
+
+Welcome to this new research project titled "ChinaComx: Comics Culture in the People's Republic of China"!
+
+- In the [Activities](activities.md) tab you will find all upcoming and past talks, events, and other activities related to the project;
+- To learn more about the project, see [About](../about.md). You can also visit our page at the website of the Institute of Chinese Studies at Heidelberg University [here](https://www.uni-heidelberg.de/fakultaeten/philosophie/zo/sinologie/research/project-comics.html);
+- The team members introduce themselves here: [Team](team.md);
+- Under the [Translations](translations.md) tab you will be redirected to our ongoing repository of Chinese comics in translation; 
+- To read our project-related research output, head over to [Publications](publications.md);
+- We are preparing a comprehensive bibliography and collection of links related to all things lianhuanhua, to be featured in the [Resources](resources.md) tab.
+
+And if you want to get in touch with us — please do! — see [Contact](contact.md) for details.

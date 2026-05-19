@@ -1,0 +1,12 @@
+baseURL = "https://chinacomx.github.io/"
+title = "ChinaComx"
+theme = "blowfish"
+defaultContentLanguage = "en"
+googleAnalytics = ""
+pagination.pagerSize = 9
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

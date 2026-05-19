@@ -1,0 +1,13 @@
+---
+title: "The 2024 Conference of the German Chinese Teacher’s Association Coorganized by ChinaComx"
+date: 2024-04-28
+type: "article"
+aliases:
+  - /jekyll/update/2024/04/28/Fachtagung2024.html
+---
+
+{{< figure src="feature.png" >}}
+
+ChinaComx is coorganising this year’s [conference of the German Chinese teacher’s association - Fachverband Chinesisch e.V.](https://www.cats.uni-heidelberg.de/medien/fach23.html). The trilingual conference is entitled “Crossing Borders, Teaching China Competence” and will be held at Heidelberg’s Center for Asian and Transcultural Studies. For the program in PDF, click [here](ADD PDF).
+
+Lena Henningsen will give a presentation on the ChinaComx translation project and its involvement in classroom settings: How translating comics is a meaningful and rewarding experience for students of Chinese – and how translated comics can be meaningfully integrated into the teaching about Chinese history, society, culture and literature among different students, ranging from middle schools to universities.
