@@ -1,0 +1,85 @@
+[[main]]
+name = "Activities"
+pageRef = "/activities"
+identifier = "0jyn3nBseZ"
+weight = 1
+
+[[main]]
+name = "About"
+pageRef = "about"
+identifier = "rfFpEngsYg"
+weight = 2
+
+[[main]]
+name = "Team"
+pageRef = "/team"
+weight = 3
+
+[[main]]
+name = "Translations"
+url = "https://chinacomx.github.io/translations/"
+identifier = "TT5ckV8Our"
+weight = 4
+
+[[main]]
+name = "Publications"
+pageRef = "publications"
+identifier = "cVcit4OlTM"
+weight = 5
+
+[[main]]
+name = "Resources"
+pageRef = "resources"
+identifier = "1mDGyumwNs"
+weight = 6
+
+[[main]]
+name = "Contact"
+pageRef = "contact"
+identifier = "9FvN6tWFqw"
+weight = 7
+
+[[footer]]
+name = "About"
+pageRef = "/about"
+weight = 1
+
+[[footer]]
+name = "Contact"
+pageRef = "/contact"
+weight = 2
+
+[[footer]]
+name = "|"
+identifier = "divider-1"
+weight = 3
+
+[[footer]]
+name = "ERC"
+url = "https://erc.europa.eu"
+weight = 4
+
+[[footer]]
+name = "CATS"
+url = "https://www.cats.uni-heidelberg.de"
+weight = 5
+
+[[footer]]
+name = "Heidelberg University"
+url = "https://www.uni-heidelberg.de/en"
+weight = 6
+
+[[footer]]
+name = "|"
+identifier = "divider-2"
+weight = 7
+
+[[footer]]
+name = "Bluesky"
+url = "https://bsky.app/profile/damiandamiani.bsky.social"
+weight = 8
+
+[[footer]]
+name = "Github"
+url = "https://github.com/chinacomx"
+weight = 9

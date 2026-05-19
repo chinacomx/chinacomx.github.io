@@ -1,0 +1,51 @@
+colorScheme = "fire"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+enableA11y = true
+enableStructuredBreadcrumbs = false
+enableStyledScrollbar = true
+defaultBackgroundImage = "background.png"
+highlightCurrentMenuArea = true
+showViews = true
+enableSearch = true
+copyright = "© ERC-ChinaComx, 2024-2028"
+
+mainSections = ["article"]
+
+[header]
+  layout = "fixed"
+  logo = "logo.png"
+  showLanguageSelector = true
+
+[footer]
+  showCopyright = true
+  showScrollToTop = true
+  showAppearanceSwitcher = true
+
+[article]
+  layout = "simple"
+  showHero = false
+  showDate = true
+  showViews = false
+  showReadingTime = true
+  showLikes = false
+  showAuthor = false
+  showAuthorBottom = false
+  showTableOfContents = false
+
+[page]
+  showTableOfContents = false
+
+[homepage]
+  layout = "background"
+  showRecent = true
+  showMoreLinkDest = "/activities/"
+  showRecentItems = 6
+  showMoreLink = true
+  cardView = true
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = true
+  homepageImage = "background.png"
+
+[list]
+  layout = "card"

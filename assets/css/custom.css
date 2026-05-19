@@ -1,0 +1,40 @@
+/* 1. Replaces the <br> tags and pushes the arrow down the screen */
+.hero-spacer {
+    height: 35vh; /* 35% of the screen height */
+}
+
+/* 2. Styles the text arrow so it can bounce */
+.bounce-arrow {
+    font-size: 2rem;       /* Makes the arrow bigger */
+    display: inline-block; /* CRITICAL: Text cannot be animated unless it is an inline-block */
+    opacity: 0.7;
+    animation: smooth-bounce 2s infinite;
+}
+
+/* 3. The actual bounce animation logic */
+@keyframes smooth-bounce {
+  0%, 100% {
+    transform: translateY(-25%);
+    animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
+  }
+  50% {
+    transform: translateY(25%);
+    animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
+  }
+}
+
+/* 1. Force the article wrapper to center its contents */
+article, main, .prose {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+/* 2. Remove the reading width limit (Make it full width) */
+.prose {
+    max-width: 100% !important;
+}
+
+/* If you decide full width is too wide and just want a wider center column, 
+   delete the max-width: 100% above and use this instead:
+   max-width: 900px !important; 
+*/
