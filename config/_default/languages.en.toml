@@ -1,23 +1,16 @@
-disabled = false
-locale = "en"
-label = "English"
-weight = 1
+languageName = "English"
 title = ""
-description = "ChinaComx: Comics Culture in the People's Republic of China \n\n A research project funded by the European Research Council (Grant agreement ID: 101088049) and located at the Centre for Asian and Transcultural Studies, Heidelberg University."
-copyright = "2024-2028 ChinaComx, ERC, & Heidelberg University"
+weight = 1
+disabled = false
 
-[en]
-  languageName = "English"
-  
-  [en.params]
-    locale = "en-US"
-    label = "English"
-    description = "ChinaComx Project Website"
-    
 [params]
-displayName = "EN"
-isoCode = "en"
-rtl = false
-dateFormat = "2 January 2006"
-logo = "chinacomx-logo.png"
-favicon = "favicon.ico"
+  locale = "en-US"
+  label = "English"
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "chinacomx-logo.png"
+  favicon = "favicon.ico"
+  copyright = "2024-2028 ChinaComx, ERC, & Heidelberg University"
+  description = "ChinaComx: Comics Culture in the People's Republic of China \n\n A research project funded by the European Research Council (Grant agreement ID: 101088049) and located at the Centre for Asian and Transcultural Studies, Heidelberg University."
