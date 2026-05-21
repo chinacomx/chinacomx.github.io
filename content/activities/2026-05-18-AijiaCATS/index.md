@@ -2,8 +2,6 @@
 title: "Aijia Zhang to Present at CATS Forum on 22 May at Heidelberg University"
 date: 2026-05-18
 type: "article"
-aliases:
-  - /jekyll/update/2026/05/18/AijiaCATS.html
 ---
 
 {{< figure src="feature.jpg" >}}
