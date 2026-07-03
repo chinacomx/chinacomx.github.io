@@ -1,6 +1,6 @@
 ---
 title: "Eileen Yiran Zhao to present guest lecture titled 'When Women’s Feelings Become Illness: Medicine, Gender, and the Boundaries of Sickness in Ming-qing China' on 7 July 2026"
-date: 2026-07-01
+date: 2026-07-02
 type: "article"
 ---
 
