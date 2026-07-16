@@ -1,0 +1,23 @@
+---
+title: "Damian Mandzunowski to Participate in the EACS Conference 2026, on 21-25 July at Ca' Foscari University of Venice"
+date: 2026-07-15
+type: "article"
+---
+
+{{< figure src="feature.png" >}}
+
+ChinaComx postdoc [Damian Mandzunowski](https://chinacomx.github.io/team/damian/) will present new research on the phenomenon of public and internal criticism of new socialist lianhuanhua at the upcoming [European Associaction of Chinese Studies (EACS) conference 2026](https://www.unive.it/web/en/8022/home#c210624), held during 21-25 July at Ca' Foscari University of Venice, Italy.
+
+Abstract of Damian's paper:
+>Reader Criticism of New Socialist Comics (Lianhuanhua)
+>
+>As a popular medium combining simple texts with affective images, Chinese comic books (lianhuanhua) were of immediate relevance to the political communication of the People’s Republic of China (PRC). While the rapid nationalization of the industry and the cleansing of extant titles ushered in a new age of socialist production, criticism of the new lianhuanhua persisted. This criticism took many forms: from two 1952 People’s Daily letters, inwhich volunteer soldiers and factory workers objected to “vulgar” depictions of their class comrades; to a 1956 issue of Meishu where readers attacked titles for propagating idealism and spiritualism; to the 1960 discovery of hidden Guomindang imagery in a provincial lianhuanhua pictorial; or, in 1961, to a Wenhui bao reader’s objection to the simplistic use of historical settings as veiled political commentary. Treating these complaints as evidence of a controlled but polyphonic public reading sphere, this paper offers the first comprehensive study of socialist lianhuanhua through the lens of negative feedback loops. The paper argues that dissenting voices did not merely penetrate the mainstream media landscape; rather, they functioned as an integral mechanism of socialist lianhuanhua creation. Because these voices often came from within the “people,” authorities treated them seriously. This dynamic not only sheds light on the complexity of post-1949 public visual literacy but also reveals a system where criticism led directly to the redrawing and renewed printing of selected titles. Ultimately, this cycle of critique and revision complicates binary views of permitted and unpermitted artistic creation in Maoist China.
+
+Abstract of the panel:
+>Feedback? Complaint, Criticism, and Appeal in Maoist China.
+>
+>The People’s Republic of China in the Mao era (1950s-1970s) is often characterized by overwhelming ideological and political control. And yet, new access to archival and other sources continues to reveal a governance system that was surprisingly responsive to, and in some cases even dependent upon, voices from below. This panel explores how people navigated the new socialist order through diverse channels of complaint, criticism, and appeal. Drawing on criminal case files, the first paper demonstrates how the legal system provided institutional channels for appeals, allowing individuals to challenge verdicts in a process that paradoxically contributed to the stabilization of socialist rule. Moving from the courtroom to the countryside, the second presentation utilizes internal police journals to map forms of anonymous rural resistance, analyzing how security organs interpreted and responded to slogans and leaflets criticizing the hardships of the Great Leap Forward. Shifting to the cultural sphere, the third contribution argues that reader criticism of new socialist comics (lianhuanhua) functioned not merely as dissent, but as a feedback loop integral to the production and revision of socialist visual culture. In the fourth paper, an exploration of the public and private lives of labor models shows how these ordinary people supported, challenged, and changed politics and culture. The chair and discussant will draw from their extensive scholarship on Maoist political practice to help illuminate how these acts of friction—legal, rural, cultural, and political—coalesced. In sum, the panel aims to expand our understanding of the permitted political boundaries in the early PRC.
+>
+>with: Man Zhang (LMU Munich), Mark Czellér (University of Oxford), Damian Mandzunowski (Heidelberg University), Aminda Smith (Michigan State University), Min Chen (University of Freiburg), and Fabio Lanza (The University of Arizona)
+
+For the conference programme see [here](https://www.unive.it/web/fileadmin/user_upload/eventi/eacs-2026/doc/EACS_Conference_all_Programme.pdf). The conference book of abstracts is available [here](https://www.unive.it/web/fileadmin/user_upload/eventi/eacs-2026/Abstract/EACS-2026_Book_of_Abstracts_n.pdf).
