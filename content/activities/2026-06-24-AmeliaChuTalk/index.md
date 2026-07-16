@@ -1,5 +1,5 @@
 ---
-title: "Amelia Kin Wai Chu to deliver guest lecture titled 'Transcultural Influences on the Transformation of Hong Kong Superhero Comics' on 1 July 2026"
+title: "Guest lecture by Amelia Kin Wai Chu titled 'Transcultural Influences on the Transformation of Hong Kong Superhero Comics' on 1 July 2026"
 date: 2026-06-24
 type: "article"
 ---
