@@ -1,12 +1,12 @@
 ---
-title: "Damian Mandzunowski to Participate in the EACS Conference 2026, on 21-25 July at Ca' Foscari University of Venice"
+title: "Damian Mandzunowski to Participate in the 26th EACS Conference 2026, on 21-25 July at Ca' Foscari University of Venice"
 date: 2026-07-15
 type: "article"
 ---
 
 {{< figure src="feature.png" >}}
 
-ChinaComx postdoc [Damian Mandzunowski](https://chinacomx.github.io/team/damian/) will present new research on the phenomenon of public and internal criticism of new socialist lianhuanhua at the upcoming [European Associaction of Chinese Studies (EACS) conference 2026](https://www.unive.it/web/en/8022/home#c210624), held during 21-25 July at Ca' Foscari University of Venice, Italy.
+ChinaComx postdoc [Damian Mandzunowski](https://chinacomx.github.io/team/damian/) will present new research on the phenomenon of public and internal criticism of new socialist lianhuanhua at the upcoming 26th biennial conference of the [European Associaction of Chinese Studies (EACS) 2026](https://www.unive.it/web/en/8022/home#c210624), held during 21-25 July at Ca' Foscari University of Venice, Italy.
 
 Abstract of Damian's paper:
 >Reader Criticism of New Socialist Comics (Lianhuanhua)
