@@ -16,6 +16,7 @@ In this section, all project-related publications by the ChinaComx team will be 
 
 | Author | Title | Source | Date | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| **Damian Mandzunowski, Tilen Zupan, Bettina Jin, and Lena Henningsen** | The ChinaComx Lianhuanhua Publication Dataset, v1.0.0 | *Zenodo* | {{< badge >}}08/09/2026{{< /badge >}}<br>*(online dataset)* | [DOI](https://doi.org/10.5281/zenodo.22661555) ↗ |
 | **Aijia Zhang** | *Visualizing Gender Representation: Designing Bias-Aware Computer Vision Experiments for Chinese Comics* | *European Association for Digital Humanities (EADH) Annual Conference 2026: Book of Abstracts*: 425-429 | {{< badge >}}07/09/2026{{< /badge >}}<br>*(online)* | [DOI ↗](https://zenodo.org/records/22078032) |
 | **Damian Mandzunowski and Tilen Zupan** | *How to (Machine) Read 38,000 Chinese Comics? Distilling Publication Metadata from Lianhuanhua Catalogues* | *European Association for Digital Humanities (EADH) Annual Conference 2026: Book of Abstracts*: 405-410 | {{< badge >}}07/09/2026{{< /badge >}}<br>*(online)* | [DOI ↗](https://zenodo.org/records/22078032) |
 | **Damian Mandzunowski** | *Digital Curatorship, Handling Special Collections, and Lessons Learned from My Pursuit of Historical Photographs of People Reading in China* | *The Digital Orientalist* | {{< badge >}}02/06/2026{{< /badge >}}<br>*(online)* | [URL ↗](https://digitalorientalist.com/2026/06/02/digital-curatorship-handling-special-collections-and-lessons-learned-from-my-pursuit-of-historical-photographs-of-people-reading-in-china/) |

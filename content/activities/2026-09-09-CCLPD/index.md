@@ -1,19 +1,22 @@
 ---
 title: "PUBLICATION ALERT: The ChinaComx Lianhuanhua Publication Dataset, v. 1.0.0"
-date: 2026-07-09
+date: 2026-09-08
 type: "article"
 ---
 
 {{< figure src="feature.png" >}}
 
-ChinaComx postdoc [Damian Mandzunowski](https://chinacomx.github.io/team/damian/) has been invited to partake in the summer school ["Translating comics from the Arab, Chinese, and Japanese Worlds"](https://dllcs.unibg.it/it/studiare/opportunita-internazionali/winter-summer-e-international-schools/summer-school-translating) organized by [Martina Caschera](https://unibg.unifind.cineca.it/individual?uri=http%3A%2F%2Firises.unibg.it%2Fresource%2Fperson%2F64892) at the University of Bergamo during 31 August-7 September 2026.
+<div class="my-4">
+  <a href="https://doi.org/10.5281/zenodo.22661556" target="_blank" class="inline-block"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.22661556.svg" alt="DOI" class="my-0 nozoom" /></a>
+</div>
 
+After almost a year of work, we have finalized the first release of our comprehensive, open-access digital dataset comprising over 38,000 digitized historical records of Chinese lianhuanhua publications spanning the years 1949–1994! 
 
-Title & Abstract:
->Translating Lianhuanhua: Collaborative Academic Translation of Chinese Socialist Comics
->
->This talk explores the distinct dynamics of academic translation, focusing specifically on historical texts and Chinese socialist comics (lianhuanhua 连环画) as practiced in the ChinaComx project. Unlike commercial translation which is largely product-driven, bounded by strict deadlines, and tailored to specific market contexts, academic translation is often defined by the process itself. Ranging from classroom assignments to large-scale collaborative research projects, academic translation relies on a meticulous, detail-oriented engagement with a text over an extended period. While commercial translation can sometimes be rushed under pressure, and academic translation prone to endless deliberation, both fields have much to learn from each other.
->
->Drawing on my involvement in two ongoing collaborative projects—Revisiting the Revolution: Engaging Chinese Scholarship Through Collaborative Translation (since 2021, https://networks.h-net.org/group/pages/20033515/revisiting-revolution) and the ChinaComx/Translations space (since 2022, https://chinacomx.github.io/translations/) which will soon host 20 published lianhuanhua translations—this talk delineates the key elements guiding academic translation of Chinese visual-textual material. I will outline our standard workflow, task division, and the handling of archival texts, alongside strategies for open-access publishing. By examining specific case studies from the ChinaComx translation space, I will highlight the unique practical and historical challenges of this medium. This includes navigating the distinct spatial mechanics of lianhuanhua, where traditional text boxes beneath images dictate a different translation rhythm compared to standard comic speech bubbles; the difficulty of deciphering dense socialist jargon and political vernacular from the 1950s to 1980s without overwhelming the reader with footnotes; and the pressing dilemma of whether—and how—to integrate AI into the workflow, particularly given the limitations of machine translation when faced with historical ideological idioms and the OCR challenges of degraded print materials.
+Provided in a comma-separated values (CSV) format, the dataset digitizes over 1,200 printed pages of densely packed tables to document detailed publication information. As such, the dataset not only systematizes publication data as preserved in two decades-old catalogues, but also reveals novel, multilayered connections across tens of thousands of titles, deepening our understanding of what was one of the world’s most widely consumed reading materials throughout the twentieth century.
 
-For the summer school program and abstracts see [here](https://dllcs.unibg.it/sites/dip05/files/media/documents/2026-07-13/Program_titles%20and%20abstracts%20updated.pdf).
+> **The ChinaComx Lianhuanhua Publication Dataset (v1.0.0)**  
+> Read all about the dataset on [the GitHub repository page](https://github.com/chinacomx/lhhpublicationdata) or download it [via Zenodo](https://doi.org/10.5281/zenodo.22661556)
+
+This dataset is an academic output of the ERC-ChinaComx project, led by Principal Investigator Lena Henningsen. Damian Mandzunowski conceptualized and supervised the development of the dataset. Tilen Zupan executed the main OCR extraction and data parsing, building upon initial digitization groundwork by Bettina Jin. We thank Matthias Arnold and Aijia Zhang for their valuable feedback and brainstorming throughout the work on the dataset. 
+
+Primary source materials such as the lianhuanhua publication catalogues were sourced from the Centre for Asian and Transcultural Studies (CATS) Library, Heidelberg University as well as from the ERC-ChinaComx collection at the CATS Library.
