@@ -50,11 +50,6 @@ pageRef = "/contact"
 weight = 2
 
 [[footer]]
-name = "|"
-identifier = "divider-1"
-weight = 3
-
-[[footer]]
 name = "ERC"
 url = "https://erc.europa.eu"
 weight = 4
@@ -68,11 +63,6 @@ weight = 5
 name = "Heidelberg University"
 url = "https://www.uni-heidelberg.de/en"
 weight = 6
-
-[[footer]]
-name = "|"
-identifier = "divider-2"
-weight = 7
 
 [[footer]]
 name = "Bluesky"
