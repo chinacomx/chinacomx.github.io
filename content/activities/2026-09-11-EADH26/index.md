@@ -6,7 +6,7 @@ type: "article"
 
 {{< figure src="feature.png" >}}
 
-ChinaComx will be represented by PhD Candidate [Aijia Zhang](https://chinacomx.github.io/team/aijia/), our Postdoc [Damian Mandzunowski](https://chinacomx.github.io/team/damian/), and our current research assistant Tilen Zupan at this year's [European Association for Digital Humanities (EADH)](https://eadh.org/) annual conference, which will take place between 15 and 19 September 2026 at the Jagiellonian University in Kraków, Poland, under the tagline ["Linking Europe: Digital Humanities without Borders](https://eadh2026.confer.uj.edu.pl/).
+ChinaComx will be represented by PhD Candidate [Aijia Zhang](https://chinacomx.github.io/team/aijia/), our Postdoc [Damian Mandzunowski](https://chinacomx.github.io/team/damian/), and our current research assistant Tilen Zupan at this year's [European Association for Digital Humanities (EADH)](https://eadh.org/) annual conference, which will take place between 15 and 19 September 2026 at the Jagiellonian University in Kraków, Poland, under the tagline ["Linking Europe: Digital Humanities without Borders](https://eadh2026.confer.uj.edu.pl/). 
 
 The Book of Abstracts, collecting abstracts of workshops, short papers, long papers and posters to be presented at the conference, has been published [here](https://zenodo.org/records/22078032). You can also download the PDF directly [here](https://chinacomx.github.io/static/assets/images/EADH2026_BookOfAbstracts.pdf).
 
