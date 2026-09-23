@@ -1,6 +1,6 @@
 /* 1. Replaces the <br> tags and pushes the arrow down the screen */
 .hero-spacer {
-    height: 35vh; /* 35% of the screen height */
+    height: 5vh; /* 35% of the screen height */
 }
 
 /* 2. Styles the text arrow so it can bounce */
