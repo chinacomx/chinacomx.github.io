@@ -20,4 +20,4 @@ Before returning to Heidelberg (where I did my PhD and a PostDoc), I was a Junio
 Chinese literature and culture / adaptation / cultural history / reading culture(s) in contemporary China 
 
 #### Contact & socials
-📧 [Email](mailto:lena.henningsen@zo.uni-heidelberg.ge) | 🎓 [Institute website](https://www.zo.uni-heidelberg.de/sinologie/institute/staff/henningsen/) | 👨🏻‍💻 [ResearchGate](https://www.researchgate.net/profile/Lena-Henningsen) | 🟢 [ORCiD](https://orcid.org/0000-0001-7583-0920) | ⚫️ [GitHub](https://github.com/LenaHenningsen)
+📧 [Email](mailto:lena.henningsen@zo.uni-heidelberg.ge) | 🎓 [Institute website](https://www.zo.uni-heidelberg.de/en/china/institute/people/henningsen) | 👨🏻‍💻 [ResearchGate](https://www.researchgate.net/profile/Lena-Henningsen) | 🟢 [ORCiD](https://orcid.org/0000-0001-7583-0920) | ⚫️ [GitHub](https://github.com/LenaHenningsen)
