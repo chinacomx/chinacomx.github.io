@@ -69,6 +69,9 @@ The ChinaComx core research team is dedicated to the study of lianhuanhua and Ch
   </div>
 </section>
 
+### ChinaComx Affiliated Ph.D. Candidate:
+* [Suna Cha](https://chinacomx.github.io/team/suna/) {{< badge >}}from October   2026{{< /badge >}}
+
 ### ChinaComx Visiting Scholars:
 
 * [Amelia Kin Wai Chu](https://research.flw.ugent.be/en/kinwai.chu) {{< badge >}}June 2026{{< /badge >}}
@@ -77,7 +80,7 @@ The ChinaComx core research team is dedicated to the study of lianhuanhua and Ch
 * [Dayton Lekner](https://www.unive.it/data/people/27767015) {{< badge >}}July–Aug 2025{{< /badge >}}
 * Lara Y. Yang {{< badge >}}July 2025{{< /badge >}}
 
-### Research Assistants & Support:
+### Research Assistants, Collaborating Translators & Support:
 
 Our current **research assistant** is Tilen Zupan. Previously, we enjoyed research assistance from Jérémy Biehler, Xiaojie Chang, Qin Gu, Bettina Jin, and Veronica Ludwiczak.
 
