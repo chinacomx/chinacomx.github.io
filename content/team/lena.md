@@ -10,7 +10,7 @@ showAuthor: false
 
 <img src="/team/lena.jpg" alt="Lena Henningsen" style="float: right; width: 200px; margin-left: 15px; margin-right: 15px; border-radius: 4px;">
 
-<h3>Principal Investigator | Adaptations into lianhuanhua</h3>
+### ChinaComx Team | Principal Investigator | Adaptations into Lianhuanhua
 
 Within the ChinaComx project, I currently work on a monograph on adaptations of the works and biography of Lu Xun into lianhuanhua. I am fascinated how these works inscribed Lu Xun into the revolutionary pantheon and into the literary canon of socialist China – while at the same time preserving the ambivalence so deeply ingrained in the works and life of Lu Xun. I also enjoy organizing workshops, translating lianhuanhua, preparing other people’s translations for our webpage and publishing widely on Chinese literature and culture.
 

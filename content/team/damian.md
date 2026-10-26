@@ -10,7 +10,7 @@ showAuthor: false
 
 <img src="/team/damian.jpg" alt="Damian Mandzunowski" style="float: right; width: 200px; margin-left: 15px; margin-right: 15px; border-radius: 4px;">
 
-<h3>Postdoctoral Researcher | Lianhuanhua in and out of the hands of politics</h3>
+### ChinaComx Team | Postdoctoral Researcher | Political History of Lianhuanhua 
 
 At ChinaComx, I research the politics behind and within lianhuanhua. I approach these palm-sized booklets as a distinctively affective medium that bridged state propaganda and popular entertainment. Specifically, my sub-project explores such themes as: the relationship between political campaigns and lianhuanhua; occurrences of Maoism (as both ideology and state bureaucracy) within storylines; various depictions of political and national enemies; uses of lianhuanhua as manuals for new socialist knowledge and norms of behavior; as well as questions related to the role of lianhuanhua in the project of socialist modernisation. 
 
