@@ -14,15 +14,15 @@ Here, we provide lianhuanhua-related resources created by the ChinaComx Team:
 
 {{< accordion separated="true" >}}
 
-{{< accordionItem header="The ChinaComx Lianhuanhua Publication Dataset, v 1.0.0" icon="book" open="true" >}}
+{{< accordionItem header="The ChinaComx Lianhuanhua Publication Dataset, v 1.1.1" icon="book" open="true" >}}
 
-After almost a year of work, we have finalized the first release of our comprehensive, open-access digital dataset comprising over 38,000 digitized historical records of Chinese lianhuanhua publications (1949–1994)!
+After over a year of work, we have finally released our comprehensive, open-access digital dataset of twentieth-century Chinese *lianhuanhua* publications (1949–1994)!
 
-Provided in a comma-separated values (CSV) format, the dataset digitizes over 1,200 printed pages of densely packed tables to document detailed publication information for over 38,000 unique lianhuanhua published between 1949 and 1992.
+Provided in comma-separated values (CSV) format, the dataset digitizes over 1,200 printed pages of densely packed tables from two major reference catalogues to document detailed publication metadata for 38,162 catalogue entries—representing **36,605 unique *lianhuanhua* publications** after cross-catalogue deduplication—published between 1949 and 1994 (alongside a smaller sample of titles from 1931–1949). Version 1.1.1 provides both a deduplicated unique dataset and a linked combined dataset across 48 standardized columns.
 
-As such, the dataset not only systematizes publication data as preserved in these two decades-old catalogues, but also reveals novel, multilayered connections across tens of thousands of titles, deepening our understanding of what was one of the world’s most widely consumed reading materials throughout the twentieth century.
+As such, the dataset not only systematizes publication data as preserved in these two collector-compiled reference catalogues, but also reveals novel, multilayered connections across tens of thousands of titles, deepening our understanding of what was one of the world’s most widely consumed reading materials throughout the twentieth century.
 
-Read all about the dataset on [the GitHub repository page](https://github.com/chinacomx/lhhpublicationdata) or reference it [via Zenodo](https://doi.org/10.5281/zenodo.22661556):
+Read all about the dataset on [the GitHub repository page](https://github.com/chinacomx/lhhpublicationdata) or reference it [via Zenodo](https://doi.org/10.5281/zenodo.22661555):
 
 <div class="my-4 flex flex-wrap gap-4">
   <!-- GitHub Button -->
@@ -35,7 +35,7 @@ Read all about the dataset on [the GitHub repository page](https://github.com/ch
   </a>
 </div>
   <div class="my-1">
-  <a href="https://doi.org/10.5281/zenodo.22661556" target="_blank" class="inline-block"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.22661556.svg" alt="DOI" class="my-0 nozoom" /></a>
+  <a href="https://doi.org/10.5281/zenodo.22661555" target="_blank" class="inline-block"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.22661555.svg" alt="DOI" class="my-0 nozoom" /></a>
   </div>
 {{< /accordionItem >}}
 
