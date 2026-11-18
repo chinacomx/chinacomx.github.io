@@ -14,45 +14,102 @@ Here, we provide lianhuanhua-related resources created by the ChinaComx Team:
 
 {{< accordion separated="true" >}}
 
-{{< accordionItem header="The ChinaComx Lianhuanhua Publication Dataset, v 1.1.1" icon="book" open="true" >}}
+  <div id="dataset"></div>
+  {{< accordionItem header="The ChinaComx Lianhuanhua Publication Dataset, v1.1.1" icon="book" open="true" >}}
 
-After over a year of work, we have finally released our comprehensive, open-access digital dataset of twentieth-century Chinese *lianhuanhua* publications (1949–1994)!
+  After over a year of work, we have finally released our comprehensive, open-access digital dataset of twentieth-century Chinese *lianhuanhua* publications (1949–1994)!
 
-Provided in comma-separated values (CSV) format, the dataset digitizes over 1,200 printed pages of densely packed tables from two major reference catalogues to document detailed publication metadata for 38,162 catalogue entries—representing **36,605 unique *lianhuanhua* publications** after cross-catalogue deduplication—published between 1949 and 1994 (alongside a smaller sample of titles from 1931–1949). Version 1.1.1 provides both a deduplicated unique dataset and a linked combined dataset across 48 standardized columns.
+  Provided in comma-separated values (CSV) format, the dataset digitizes over 1,200 printed pages of densely packed tables from two major reference catalogues to document detailed publication metadata for 38,162 catalogue entries—representing **36,605 unique *lianhuanhua* publications** after cross-catalogue deduplication—published between 1949 and 1994 (alongside a smaller sample of titles from 1931–1949). Version 1.1.1 provides both a deduplicated unique dataset and a linked combined dataset across 48 standardized columns.
 
-As such, the dataset not only systematizes publication data as preserved in these two collector-compiled reference catalogues, but also reveals novel, multilayered connections across tens of thousands of titles, deepening our understanding of what was one of the world’s most widely consumed reading materials throughout the twentieth century.
+  As such, the dataset not only systematizes publication data as preserved in these two collector-compiled reference catalogues, but also reveals novel, multilayered connections across tens of thousands of titles, deepening our understanding of what was one of the world’s most widely consumed reading materials throughout the twentieth century.
 
-Read all about the dataset on [the GitHub repository page](https://github.com/chinacomx/lhhpublicationdata) or reference it [via Zenodo](https://doi.org/10.5281/zenodo.22661555):
+  Read all about the dataset on [the GitHub repository page](https://github.com/chinacomx/lhhpublicationdata) or reference it [via Zenodo](https://doi.org/10.5281/zenodo.22661555):
 
-<div class="my-4 flex flex-wrap gap-4">
-  <!-- GitHub Button -->
-  <a href="https://github.com/chinacomx/lhhpublicationdata" target="_blank" class="inline-block rounded bg-black px-4 py-2 text-sm font-bold text-white hover:bg-neutral-800 !no-underline shadow-sm transition-colors duration-300">
-    Read more on GitHub
-  </a>
+  <div class="my-4 flex flex-wrap gap-4">
+    <!-- GitHub Button -->
+    <a href="https://github.com/chinacomx/lhhpublicationdata" target="_blank" class="inline-block rounded bg-black px-4 py-2 text-sm font-bold text-white hover:bg-neutral-800 !no-underline shadow-sm transition-colors duration-300">
+      Read more on GitHub
+    </a>
     <!-- Zenodo Button -->
-  <a href="https://doi.org/10.5281/zenodo.22661555" target="_blank" style="background-color: #0275d8; color: #ffffff; padding: 0.5rem 1rem; border-radius: 0.25rem; font-weight: bold; font-size: 0.875rem; text-decoration: none; display: inline-block; transition: opacity 0.3s;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">
-    Get it on Zenodo
-  </a>
-</div>
-  <div class="my-1">
-  <a href="https://doi.org/10.5281/zenodo.22661555" target="_blank" class="inline-block"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.22661555.svg" alt="DOI" class="my-0 nozoom" /></a>
+    <a href="https://doi.org/10.5281/zenodo.22661555" target="_blank" style="background-color: #0275d8; color: #ffffff; padding: 0.5rem 1rem; border-radius: 0.25rem; font-weight: bold; font-size: 0.875rem; text-decoration: none; display: inline-block; transition: opacity 0.3s;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">
+      Get it on Zenodo
+    </a>
   </div>
-{{< /accordionItem >}}
+  
+  <div class="my-1">
+    <a href="https://doi.org/10.5281/zenodo.22661555" target="_blank" class="inline-block"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.22661555.svg" alt="DOI" class="my-0 nozoom" /></a>
+  </div>
 
-{{< accordionItem header="The ChinaComx Lianhuanhua Bibliography, v 1.5" icon="book" open="true" >}}
+  {{< /accordionItem >}}
 
-We are happy to share our comprehensive reference list of selected scholarly publications on lianhuanhua—Chinese comics—compiled by the ChinaComx project (most recent update: 26 September 2025).
 
-This list is to serve as both an entry point for students of Chinese visual culture and a curated snapshot of current scholarship. It is not a peer-reviewed bibliography, nor should exclusion from this list be taken as a negative judgment; it is simply a selection of texts we find particularly interesting at this moment and hope will be useful to other researchers.
+  <div id="bibliography"></div>
+  {{< accordionItem header="The ChinaComx Lianhuanhua Bibliography, v2.0" icon="book" open="true" >}}
 
-We hope you might approach this list as an invitation: it invites you to read and engage with the vast academic literature on all things lianhuanhua; it invites you to share with us other publications that we might have overlooked; and it invites all of us to explore the fascinating world(s) of Chinese comics.
+  We are happy to share a reference list of selected scholarly publications on lianhuanhua compiled by the ChinaComx project (last update: 16 Nov. 2026).
 
-<div class="my-4">
-  <a href="/assets/images/ChinaComxLianhuanhuaBibliography-v260925.pdf" target="_blank" class="inline-block rounded bg-primary-600 px-4 py-2 text-sm font-bold text-neutral-50 hover:bg-primary-500 !no-underline shadow-sm transition-colors duration-300">
-    Download PDF
-  </a>
-</div>
+  This list is to serve as both an entry point for students of Chinese visual culture and a curated snapshot of current scholarship. It is not a peer-reviewed bibliography, nor should exclusion from this list be taken as a negative judgment; it is simply a selection of texts we find particularly interesting at this moment and hope will be useful to other researchers.
 
-{{< /accordionItem >}}
+  We hope you might approach this list as an invitation: it invites you to read and engage with the vast academic literature on all things lianhuanhua; it invites you to share with us other publications that we might have overlooked; and it invites all of us to explore the fascinating world(s) of Chinese comics.
+
+  <div class="my-4 flex flex-wrap gap-4">
+    <!-- PDF Download  -->
+    <a href="/assets/images/ChinaComxLianhuanhuaBibliography-v181126.pdf" target="_blank" class="inline-block rounded bg-primary-600 px-4 py-2 text-sm font-bold text-neutral-50 hover:bg-primary-500 !no-underline shadow-sm transition-colors duration-300">
+      Download PDF
+    </a>
+    <!-- Zotero Download -->
+    <a href="/assets/images/ChinaComxLianhuanhuaBibliography-v181126.bib" download="ChinaComxLianhuanhuaBibliography-v181126.bib" style="background-color: #cc2936; color: #ffffff; padding: 0.5rem 1rem; border-radius: 0.25rem; font-weight: bold; font-size: 0.875rem; text-decoration: none; display: inline-block; transition: opacity 0.3s;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">
+      Download BibTeX for Zotero
+    </a>
+  </div>
+
+  {{< /accordionItem >}}
 
 {{< /accordion >}}
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  function handleAccordionHash() {
+    const hash = window.location.hash.replace("#", "");
+    if (!hash) return;
+
+    const anchor = document.getElementById(hash);
+    if (!anchor) return;
+
+    const targetItem = anchor.nextElementSibling;
+    if (!targetItem) return;
+
+    const allDetails = document.querySelectorAll("details");
+    if (allDetails.length > 0) {
+      allDetails.forEach((el) => {
+        if (el === targetItem || targetItem.contains(el)) {
+          el.setAttribute("open", "");
+        } else {
+          el.removeAttribute("open");
+        }
+      });
+    } else {
+      const parentAccordion = anchor.parentElement;
+      const items = Array.from(parentAccordion.children).filter(
+        (el) => el.tagName !== "DIV" || !el.id
+      );
+      items.forEach((item) => {
+        const isTarget = item === targetItem;
+        const btn = item.querySelector("button[aria-expanded]");
+        if (btn) {
+          const currentlyOpen = btn.getAttribute("aria-expanded") === "true";
+          if (isTarget && !currentlyOpen) btn.click();
+          if (!isTarget && currentlyOpen) btn.click();
+        }
+      });
+    }
+
+    setTimeout(() => {
+      targetItem.scrollIntoView({ behavior: "smooth", block: "start" });
+    }, 100);
+  }
+
+  handleAccordionHash();
+  window.addEventListener("hashchange", handleAccordionHash);
+});
+</script>
