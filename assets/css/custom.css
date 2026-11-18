@@ -45,3 +45,8 @@ main > div > section {
     margin-top: 1rem !important; 
     padding-top: 0 !important;
 }
+
+/* Hide the site title text in the top navbar while keeping it for browser tabs */
+header nav a.text-base.font-bold {
+    display: none !important;
+}
