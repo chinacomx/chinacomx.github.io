@@ -46,7 +46,7 @@ Here, we provide lianhuanhua-related resources created by the ChinaComx Team:
   <div id="bibliography"></div>
   {{< accordionItem header="The ChinaComx Lianhuanhua Bibliography, v2.0" icon="book" open="true" >}}
 
-  We are happy to share a reference list of selected scholarly publications on lianhuanhua compiled by the ChinaComx project (last update: 16 Nov. 2026).
+  We are happy to share a reference list of selected scholarly publications on lianhuanhua compiled by the ChinaComx project (last update: 18 Nov. 2026).
 
   This list is to serve as both an entry point for students of Chinese visual culture and a curated snapshot of current scholarship. It is not a peer-reviewed bibliography, nor should exclusion from this list be taken as a negative judgment; it is simply a selection of texts we find particularly interesting at this moment and hope will be useful to other researchers.
 
