@@ -1,5 +1,5 @@
 ---
-title: "Lena Henningsen Presented on Lianhuanhua and Maoist Cultural Policy at the University of Freiburg on 2 October"
+title: "Lena Henningsen Presented on Lianhuanhua and Maoist Cultural Policy at the University of Freiburg on 2 October 2026"
 date: 2026-10-18
 type: "article"
 aliases:
