@@ -16,6 +16,7 @@ In this section, all project-related publications by the ChinaComx team will be 
 
 | Author | Title | Source | Date | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| **Lena Henningsen** | Book review: Thumala Olave MA, *The Love of Books: Attachment to a Changing Cultural Object* | *European Journal of Cultural Studies* <br>*(online first)* | {{< badge >}}21/11/2026{{< /badge >}}| [DOI](https://doi.org/10.1177/13675494261507425) ↗ |
 | **Astrid Y. Xiao** | *Where Instruction Meets Graphic Narratives: Environmental Storytelling and Visual Rhetorics in Chinese Children’s Comics* | *Children's Literature in Education* <br>*(online first)* | {{< badge >}}18/11/2026{{< /badge >}}| [DOI](https://doi.org/10.1007/s10583-026-09743-1) ↗ |
 | **Damian Mandzunowski, Tilen Zupan, Bettina Jin, and Lena Henningsen** | The ChinaComx Lianhuanhua Publication Dataset, v1.1.1 | *Zenodo* / *GitHub*| {{< badge >}}13/11/2026{{< /badge >}}<br>*(online dataset)* | [DOI](https://doi.org/10.5281/zenodo.22661555) ↗ |
 | **Aijia Zhang** | *Visualizing Gender Representation: Designing Bias-Aware Computer Vision Experiments for Chinese Comics* | *European Association for Digital Humanities (EADH) Annual Conference 2026: Book of Abstracts*: 425-429 | {{< badge >}}07/09/2026{{< /badge >}}<br>*(online)* | [DOI ↗](https://zenodo.org/records/22078032) |
